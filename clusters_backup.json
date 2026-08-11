@@ -1,0 +1,3048 @@
+[
+  {
+    "cls_id": 1785840036044,
+    "art_ids": [
+      "6a6edff252eaed5cd152e432",
+      "6a7093dab64e1763e6a0561d",
+      "6a719bfa06955347f10c4bcf"
+    ],
+    "headline": "Knife, Sticks, Kanwar: Media’s Differing Lens on UP Violence",
+    "intro": "Three UP incidents—stabbing, child killing, kanwar clash—show how Indian media reports violence with differing angles and police reliance.",
+    "qna": [
+      {
+        "que": "What does each reported incident involve?",
+        "ans": [
+          "The three articles report separate violent incidents in Uttar Pradesh: a stabbing death of a 20-year-old man in Shahjahanpur over an inter-community relationship; a deadly stick attack in Gorakhpur that killed a 9-year-old boy and injured his cousin, linked to alleged harassment of the cousin's minor sister; and a clash between kanwariyas in Daurala after a motorcycle allegedly damaged a kanwar. All involve group violence and police response.",
+          "Presents it as a murder driven by 'shame and revenge', focusing on the love affair and the girl's brother as the mastermind. Names the victim as Gautam Maurya and says he was lured and stabbed.",
+          "Reports the attack as linked to an earlier harassment complaint; says attackers used sticks, the 19-year-old cousin was the intended target, and the child was caught in the middle.",
+          "Frames it as a clash between two groups of devotees, not a murder. Emphasizes that a viral video falsely showed policemen being assaulted; police say the men seen being hit were Sonu and his associate."
+        ],
+        "srcs": [
+          "common_answer",
+          "india_news",
+          "indian_express",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "How do the reports frame the motive and the people involved?",
+        "ans": [
+          "All three cite police accounts and describe the motive as interpersonal or accidental: a love affair, previous harassment, and an accidental damage to a holy kanwar. The accused are described as groups of men from the same local area, and police are treated as the primary source of truth.",
+          "Uses the emotionally loaded phrase 'different community' to describe the couple, suggesting a communal angle, but avoids any caste designation or prior dispute. The girl's brother and three friends are blamed.",
+          "Explicitly states the two groups belong to different OBC communities, notes a village meeting had settled the June harassment issue, and says the accused are aged 20 to 27. Offers more social context.",
+          "Avoids communal or caste framing entirely. Treats the incident as a roadside brawl triggered by an accident and focuses on countering social media misinformation rather than exploring deep motive."
+        ],
+        "srcs": [
+          "common_answer",
+          "india_news",
+          "indian_express",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "What law enforcement actions are mentioned in each article?",
+        "ans": [
+          "All three say police reached the spot, registered a case or FIR, seized or took custody of vehicles/accused, and began investigation. Police statements are the backbone of each story.",
+          "Highlights that a passerby caught the fleeing brother and handed him over to police. Says the accused brother is in police custody and legal proceedings are underway, but no mention of any police official being punished.",
+          "Reports that the SSP suspended the station house officer and sub-inspector for negligence. Says three of nine accused named in the FIR were arrested and raids are on for the rest. Also mentions heavy police deployment to prevent further violence.",
+          "Mentions a head constable was injured while defusing the situation, an FIR was registered, and the motorcycle was seized. Does not mention any arrests or suspension of officials."
+        ],
+        "srcs": [
+          "common_answer",
+          "india_news",
+          "indian_express",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "What contextual details are included or omitted by the three sources?",
+        "ans": [
+          "All reports use police statements and give basic location details, but they vary sharply in how much background they provide about the victims, communities, and prior events.",
+          "Provides the victim's age and village, but omits the girl's age, previous disputes, and any community breakdown beyond 'different community'. It is the most minimal on context.",
+          "Adds rich details: the 9-year-old was a Class 4 student living with his maternal aunt after his mother's death; the minor sister is in Class 11; the dispute was 'settled' at a village meeting; and the two groups are different OBC communities.",
+          "Gives exact date and place, mentions the 'lane reserved for pilgrims' and the viral video, but omits names and backgrounds of the injured or accused. The article is also labeled as a syndicated feed, not independently reported by NDTV."
+        ],
+        "srcs": [
+          "common_answer",
+          "india_news",
+          "indian_express",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "How does each source's coverage differ in tone, bias, and narrative approach?",
+        "ans": [
+          "All three rely heavily on official police versions, but each has a distinct editorial tone: sensational crime reporting, investigative accountability reporting, and fact-checking/rumor-clearing reporting. This affects what facts are emphasized and what is left out.",
+          "Uses a clickbait headline and dramatic words like 'Knife, Shame and Revenge'. Its narrative is morality-driven, focusing on the 'shock' of a love affair murder. It gives little analysis of systemic failures, making it the most sensational.",
+          "Takes a more serious, accountability-oriented approach. It highlights police negligence and administrative action, includes human-impact details about the child, and frames the incident within OBC community tensions. This is the most context-rich and critical of authorities.",
+          "Acts as a clarifier rather than an investigator. The main point is that a viral video falsely claimed policemen were beaten. It corrects misinformation and relies on the SSP's explanation. It is less emotional but also narrower, since it does not explore the underlying social friction."
+        ],
+        "srcs": [
+          "common_answer",
+          "india_news",
+          "indian_express",
+          "ndtv"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "India News (India.com)",
+        "facts": [
+          "Gautam Maurya, 20, was stabbed to death in Shahjahanpur, UP, after his relationship with a girl from a different community was discovered.",
+          "The girl's brother, with three accomplices, lured Maurya outside the village and attacked him.",
+          "The brother was caught by a passerby and handed over to police; Maurya died on the spot.",
+          "Police took custody of the body and sent it for postmortem; the accused is in custody.",
+          "The incident occurred near Kamal Nainpur village; Maurya was a resident of Nainpur village.",
+          "Further investigation into the case is underway."
+        ],
+        "opinions": [
+          "The headline 'Knife, Shame and Revenge' suggests the killing was motivated by honor/shame, which is an interpretation.",
+          "The article describes the incident as 'terrifying' and 'gruesome,' conveying emotional judgment."
+        ],
+        "sent_scr": -0.85,
+        "obj_scr": 0.4,
+        "link": ""
+      },
+      {
+        "name": "The Indian Express",
+        "facts": [
+          "A 9-year-old boy was killed and his 19-year-old cousin seriously injured after an attack in Madhopur village, Gorakhpur.",
+          "The attack is linked to alleged harassment of the teen's minor sister in June; a village meeting had reached a settlement.",
+          "Police believe animosity persisted; the assailants intended to target the 19-year-old but the child was caught in the middle.",
+          "Three of nine accused have been arrested; others are absconding; all accused are aged between 20 and 27.",
+          "SSP suspended Pipraich SHO Vivek Trivedi and sub-inspector Anjani Tiwari for alleged negligence.",
+          "The two groups are from different OBC communities; the victim had been living with his maternal aunt since his mother's death five years ago.",
+          "Heavy police deployment has been made in the village to prevent further violence."
+        ],
+        "opinions": [
+          "'Police believe' indicates a speculative motive of persisting animosity rather than a confirmed fact.",
+          "The word 'allegedly' in the harassment claim signals that the accusation is unproven."
+        ],
+        "sent_scr": -0.75,
+        "obj_scr": 0.7,
+        "link": ""
+      },
+      {
+        "name": "NDTV",
+        "facts": [
+          "A clash between two groups of devotees occurred after a motorcycle damaged a kanwar pot on the Delhi-Dehradun National Highway on August 2 night.",
+          "SSP Avinash Pandey said a viral video falsely claimed policemen were assaulted; the people seen being assaulted were Sonu and his associate.",
+          "A head constable sustained injuries to his hand, shoulder, and abdomen while trying to defuse the situation.",
+          "Sonu and his associate were riding to Haridwar; their motorcycle allegedly struck and damaged a kanwar, triggering the argument.",
+          "Police reached the spot and were taking Sonu and his associate away in a government vehicle when some kanwariyas allegedly assaulted the duo.",
+          "Based on a complaint by the sector police incharge, an FIR was registered and the motorcycle was seized.",
+          "Further legal action is underway."
+        ],
+        "opinions": [
+          "The article presents the SSP's dismissal of the viral video as 'falsely claimed' without independent verification, which is an opinion embedded in the reporting.",
+          "Using 'allegedly' in the assault description indicates uncertainty about the sequence of events."
+        ],
+        "sent_scr": -0.6,
+        "obj_scr": 0.6,
+        "link": ""
+      }
+    ],
+    "genres": [
+      "crime",
+      "social issues",
+      "legal issues"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {},
+      "keywords": {},
+      "sub_topics": []
+    },
+    "feed_analysis": {
+      "card_headline": "UP Violence Cluster: Three Attacks Expose Fractious Social Fault Lines",
+      "card_summary": "Recent Uttar Pradesh incidents show deadly escalations from personal disputes, communal tensions, and religious processions, prompting police action and raising concerns about law and order.",
+      "coverage_pulse": "Coverage is episodic, emphasizing individual brutality rather than systemic patterns.",
+      "complete_picture": {
+        "shared_ground": "All three incidents involve sudden, deadly violence in Uttar Pradesh triggered by disputes over relationships, harassment, or religious practices, with police often arriving after the fact and facing criticism.",
+        "where_it_splits": "Motivations differ: one is an honor killing, another is retaliatory group violence, and the third is a religious procession clash. Reports also vary in specificity about caste and community identities.",
+        "why_it_matters": "Together they signal a broader environment where minor altercations rapidly escalate into lethal violence, exposing gaps in policing, conflict resolution, and social cohesion."
+      },
+      "narrative_signals": [
+        "Honor-based violence framed as a crime of passion with planned lure and murder.",
+        "Retaliatory attacks linked to prior harassment and failed village mediation.",
+        "Social media misinformation amplifying a kanwar procession clash.",
+        "Police accountability questioned through suspensions and official clarifications."
+      ],
+      "blindspot_signals": [
+        "Missing systemic analysis of why village mediation failed in the harassment case.",
+        "Little attention to the girl's agency or perspective in the inter-community relationship.",
+        "No exploration of underlying tensions that make such disputes turn deadly.",
+        "Coverage often focuses on police response rather than prevention."
+      ],
+      "reader_takeaway": "These are not isolated incidents but warning signs of fragile local order.",
+      "visual_atoms": [
+        "Uttar Pradesh map",
+        "Knife icon",
+        "Police barricade",
+        "Kanwar pot",
+        "Hospital"
+      ]
+    },
+    "saved_at": "2026-08-04 10:54:11.050000"
+  },
+  {
+    "cls_id": 1785731547882,
+    "art_ids": [
+      "6a6c52136bb7438f500b16a2",
+      "6a6c552d6bb7438f500b16fa",
+      "6a6d8733943ea901557854ac"
+    ],
+    "headline": "Big Tech Bruised: Meta's Legal Fight and Apple's Supply-Chain Squeeze",
+    "intro": "Meta faces India charges over Modi posts; Apple battles supply shortages despite strong iPhone demand. Big tech under pressure.",
+    "qna": [
+      {
+        "que": "What legal trouble is Meta India facing, and what triggered it?",
+        "ans": [
+          "Hyderabad Cybercrime police booked Meta India head Arun Srinivas and several Facebook/Instagram accounts for circulating morphed and AI-generated videos and comments targeting PM Modi during the 'Cockroach Janta Party' student protests. Two complainants, including a BJP activist, alleged the content was obscene, defamatory, and capable of inciting public unrest. NDTV reported this as a case filed after complaints about manipulated content on Instagram.",
+          "Presents the complaint's allegations in detail and notes Meta had earlier drawn government censure after a video from PM Modi's account was briefly blocked. It also outlines Meta's safeguards: senior officials will now vet prominent accounts' posts.",
+          "Entirely omits the Meta-India controversy, focusing instead on Apple's earnings preview and chip-cost economics, showing no coverage of India-specific political-legal tech news.",
+          "Also omits the Meta matter, concentrating on Apple's share fall and component shortages, indicating the story was not considered a global business priority."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "business_standard",
+          "indian_express"
+        ]
+      },
+      {
+        "que": "How does Business Standard frame Apple's position, and how does Indian Express contradict or complement that?",
+        "ans": [
+          "Both agree Apple has strong iPhone demand and is navigating rising memory-chip costs. However, Business Standard's article is optimistic, focusing on steady iPhone prices driving the strongest June-quarter sales growth in five years, with shares up 25% and market value briefly topping $5 trillion. Indian Express, by contrast, reports a nearly 10% share fall after a disappointing forecast, citing 'very significant' component shortages that erased $500 billion in market cap and returned the 'world's most valuable' crown to Nvidia.",
+          "Highlights Apple's market share gains and 'inelastic' iPhone demand; quotes a portfolio manager who expects price increases later this year. It frames Apple's restraint as a winning strategy.",
+          "Emphasizes supply-chain inflexibility and Tim Cook's warning that shortages are limiting production; analysts question Apple's leverage and whether AI is a real tailwind. It frames the same period as a crisis of confidence."
+        ],
+        "srcs": [
+          "common_answer",
+          "business_standard",
+          "indian_express"
+        ]
+      },
+      {
+        "que": "What role does the AI data-center boom play in Apple's current challenges, according to the articles?",
+        "ans": [
+          "Both sources link Apple's component shortages and cost pressures to massive AI data-center construction absorbing memory and processor supply. Apple raised iPad and MacBook prices but spared the iPhone, a decision Business Standard says paid off and Indian Express says is unsustainable as stockpiles fade.",
+          "Claims Apple's choice not to spend billions on data centers helped it reclaim the title of most valuable company; treats the AI boom as a tailwind for Apple's relative valuation.",
+          "Argues the AI-driven shortage is 'really bad for everyone,' citing a consultant; suggests App Store softness may be due to AI reprioritizing customer time, casting doubt on Apple's AI strategy."
+        ],
+        "srcs": [
+          "common_answer",
+          "business_standard",
+          "indian_express"
+        ]
+      },
+      {
+        "que": "How do the two Apple stories treat the CEO transition and stock-valuation swings differently?",
+        "ans": [
+          "Both mention Tim Cook's upcoming departure and Apple ceding/reclaiming the title of world's most valuable company to Nvidia. Business Standard frames it as Apple reclaiming the crown; Indian Express reports losing it again after the stock drop.",
+          "Notes Apple became most valuable company after Nvidia's rise due to AI doubts; Cook's transition is background to a positive earnings preview. Investors question 'how long it can avoid price hikes.'",
+          "Makes the CEO transition central: Cook's 'final earnings call' with warnings about shortages; analysts are split, with four cutting targets and three raising. The narrative is one of vulnerability and leadership change."
+        ],
+        "srcs": [
+          "common_answer",
+          "business_standard",
+          "indian_express"
+        ]
+      },
+      {
+        "que": "How do these sources differ in coverage, bias, and narrative focus within this tech-news cluster?",
+        "ans": [
+          "The cluster is not one single affair: NDTV covers an India-specific political-legal story about Meta, while the other two cover Apple's business performance. This split shows how outlets select stories based on audience: NDTV prioritizes national/political impact, Business Standard prioritizes market analysis with a positive 'syndicated' wire tone, and Indian Express prioritizes dramatic market movement and executive statements.",
+          "Uses emotive language ('cockroach,' 'profanity') and relies solely on complainant claims; no response from Meta or authorities is included, showing a possible bias toward flagging online harm and protecting the PM's image.",
+          "Described as 'auto-generated from a syndicated feed' with only headline/picture reworked, indicating low editorial investment; it carries a Reuters-like bullish tone, underplaying supply-chain severity.",
+          "Provides dramatic framing ('stocks fell nearly 10%') and detailed analyst reactions, with a negative/concerned bias; it withholds any mention of Apple's strong June-quarter unit growth or market-share gains."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "business_standard",
+          "indian_express"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "NDTV",
+        "facts": [
+          "Hyderabad Cybercrime police registered cases against Meta India head Arun Srinivas and multiple Facebook/Instagram accounts over allegedly morphed and objectionable videos/images of PM Modi.",
+          "The complaints were filed by S Aravind Reddy, a businessman, and T Saikiran Goud, a Telangana BJP activist.",
+          "The content was allegedly digitally altered or AI-generated, with comments containing offensive language and indecent remarks.",
+          "Meta earlier this week faced government censure after a video posted from PM Modi's account was briefly blocked on Facebook."
+        ],
+        "opinions": [
+          "The complainants argue the content can mislead the public, spread misinformation, incite hatred, and disturb public order.",
+          "The article's use of 'Cockroach Janta Party' suggests a negative framing of the protests.",
+          "Meta's enhanced safeguards, requiring review by two senior officials, may be seen as insufficient given the scale of content.",
+          "The legal action reflects political pressure on social media platforms to monitor content targeting PM Modi."
+        ],
+        "sent_scr": -0.1,
+        "obj_scr": 0.7,
+        "link": ""
+      },
+      {
+        "name": "Business Standard",
+        "facts": [
+          "Apple is expected to report revenue growth of 15.5% to $108.65 billion for the April-June quarter, its strongest third-quarter growth since 2021.",
+          "Apple held iPhone prices steady while raising iPad and MacBook prices due to memory/storage chip shortages from AI data center buildouts.",
+          "iPhone shipments rose 3% and market share climbed to nearly a fifth, according to Counterpoint.",
+          "Apple briefly pushed its market value above $5 trillion on Tuesday, with shares up nearly 25% this year."
+        ],
+        "opinions": [
+          "Investors question how long Apple can resist price hikes given rising costs.",
+          "Dan Morgan, portfolio manager at Synovus Trust, expects Apple to raise prices later this year, which could dampen demand.",
+          "Morgan Stanley analysts say iPhone demand is highly inelastic, so price hikes are unlikely to materially disrupt demand.",
+          "Apple was initially scorned for not joining the AI investment cycle but is now rewarded as investors question Big Tech's return on investment."
+        ],
+        "sent_scr": 0.5,
+        "obj_scr": 0.8,
+        "link": ""
+      },
+      {
+        "name": "Indian Express",
+        "facts": [
+          "Apple shares fell nearly 10% on Friday after a disappointing forecast, which would be the worst day since March 2020 and erase about $500 billion in market capitalization.",
+          "Tim Cook described component shortages as 'very significant' with limited options, in his final earnings call as CEO before handing over to John Ternus in September.",
+          "Big Tech's AI data center buildouts have caused memory and chip shortages, shrinking the PC and smartphone markets.",
+          "Apple forecast 9-11% revenue growth for the current quarter, below Wall Street's ~12% estimate, and services growth also softened."
+        ],
+        "opinions": [
+          "Ben Bajarin, CEO of Creative Strategies, said, 'If even at Apple's scale they are saying they are out all supply chain flexibility, it's really bad for everyone.'",
+          "Morgan Stanley analysts questioned whether AI is serving as any measurable tailwind to Apple's products or services.",
+          "Some analysts believe iPhone has weathered price hikes before and that a U.S. leasing deal with Klarna could soften demand impact.",
+          "The sharp drop may indicate investor concern about Apple's ability to manage supply chain constraints despite strong demand."
+        ],
+        "sent_scr": -0.6,
+        "obj_scr": 0.8,
+        "link": ""
+      }
+    ],
+    "genres": [
+      "politics",
+      "crime",
+      "legal issues",
+      "social media trends"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {},
+      "keywords": {
+        "2_gram": [
+          "meta india",
+          "prime minister",
+          "social media",
+          "hyderabad cybercrime",
+          "objectionable videos"
+        ],
+        "3_gram": [
+          "prime minister narendra modi",
+          "morphed and objectionable",
+          "digitally manipulated videos",
+          "social media platforms",
+          "content targeting prime"
+        ]
+      },
+      "sub_topics": []
+    },
+    "saved_at": "2026-08-03 04:58:59.273000"
+  },
+  {
+    "cls_id": 1785731547874,
+    "art_ids": [
+      "6a6c51036bb7438f500b1656",
+      "6a701269fa270867e63a8cb1",
+      "6a6c50a66bb7438f500b163b",
+      "6a6c539e6bb7438f500b16de"
+    ],
+    "headline": "Parliament Storm: Bills Passed Amid Protests, Ram Mandir Row and Student Crackdown",
+    "intro": "In a chaotic Monsoon Session, Parliament passed key bills amid opposition uproar over Ram Mandir donation theft and student detentions. Here's how sources framed it.",
+    "qna": [
+      {
+        "que": "What key bills were passed in Parliament and why were they controversial?",
+        "ans": [
+          "The Lok Sabha passed the Registration of Births and Deaths Amendment Bill, 2026, without debate, and both Houses passed the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026, which stiffens penalties for paper leaks. Opposition members disrupted proceedings, demanding discussion on alleged Ram Mandir donation embezzlement and the absence of Home Minister Amit Shah.",
+          "Reported Parliamentary Affairs Minister Kiren Rijiju's disappointment that no Opposition party took part in the Births and Deaths Bill debate despite an agreement in the Business Advisory Committee, and that the Bill was passed amid heavy sloganeering.",
+          "Focused on procedural disruption, noting the Bill was passed by voice vote with Opposition members in the Well demanding Amit Shah's presence, and quoted Rijiju saying 'people who sent you to Parliament will seek answers from you'.",
+          "Highlighted that the anti-paper leak Bill was cleared by voice vote amid an Opposition walkout, and quoted BJP's JP Nadda accusing the Opposition of being 'irresponsible' and having no respect for parliamentary democracy."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "business_standard",
+          "india_news"
+        ]
+      },
+      {
+        "que": "What are the main provisions of the anti-paper leak Bill and how did PM Modi respond?",
+        "ans": [
+          "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026, mandates 5-10 years' jail and fines up to Rs 50 lakh for individuals, and a minimum 7 years and up to Rs 10 crore for organized rackets. It also allows special fast-track courts and aims for trials within three months. PM Modi said the government will not spare the paper-leak mafia and is working on a technology-driven examination system.",
+          "Noted PM Modi delivered a late night video message shortly after the Rajya Sabha passage, emphasizing comprehensive education reforms and the need to protect students' futures.",
+          "Reported PM Modi addressed the nation via Instagram, specifically saying the 'paper leak mafia will not be spared' and called for full use of technology in education; it also mentioned he chaired a CCS meeting on West Asia, a detail absent elsewhere."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "india_news"
+        ]
+      },
+      {
+        "que": "How did the Opposition's Ram Mandir donation embezzlement protest unfold, and what controversy followed?",
+        "ans": [
+          "Opposition MPs, including Pappu Yadav, staged a skit in saffron robes alleging theft of donations to the Ayodhya Ram Mandir, and demanded a discussion in Parliament. A BJP delegation led by Bansuri Swaraj filed a complaint claiming the use of saffron robes hurt Hindu sentiments. Yadav later survived a shoe attack at a press conference, with his attacker allegedly carrying a knife.",
+          "Provided an exclusive interview with Pappu Yadav, who said he had received death threats from sadhus, insisted he protected his attacker, and stated that he will continue to demand a discussion. It also detailed the BJP complaint seeking preservation of CCTV footage.",
+          "Framed the protest within the larger parliamentary disruption, mentioning placards that read 'Where is Amit Shah?' and describing opposition leaders 'dressed up as priests' while demanding accountability over the alleged Ram Mandir donations embezzlement."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "indian_express"
+        ]
+      },
+      {
+        "que": "How did Congress leaders respond to the alleged police crackdown on student protesters?",
+        "ans": [
+          "Congress leaders Rahul Gandhi and Mallikarjun Kharge accused the BJP government of using force against students, filing FIRs, and taking down social media accounts after the NEET paper-leak protests. Kharge also demanded Home Minister Amit Shah's resignation and alleged pellet guns and doxxing of young women.",
+          "Quoted Rahul Gandhi's X post warning PM Modi and Amit Shah that 'you cannot threaten Gen Z into silence' and described them as 'India's past'. It also carried Kharge's detailed allegations about the July 20 Sansad Chalo march and use of lathis, batons and pellet guns.",
+          "Did not cover this issue in the provided article, focusing instead on the Ram Mandir protest and the shoe attack on Pappu Yadav.",
+          "Mentioned the protests over police crackdown as the backdrop to the Births and Deaths Bill passage, but did not report the Congress leaders' specific statements."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "How do the four sources differ in their coverage, bias, and narrative of the Parliament events?",
+        "ans": [
+          "The articles show distinct editorial priorities: Indian Express offers broad but critical coverage of parliamentary dysfunction; NDTV zooms in on the Pappu Yadav attack as a standalone story; India.com adopts a government-friendly tone emphasizing PM Modi and condemning opposition walkouts; Business Standard uses a syndicated, straight-news approach focused on legislative procedure.",
+          "Provided the most detailed, real-time chronology of protests, disruptions, and quotes from both sides, but its narrative stresses that Opposition disruption forced bills through without debate, subtly criticizing both the Opposition's tactics and the government's fast-tracking.",
+          "Gave a tabloid-esque treatment, leading with the 'shoe attack' and 'knife' details, and concentrated on the Ram Mandir protest controversy, ignoring major bills like the anti-paper leak law; its sourcing heavily favors Pappu Yadav's voice.",
+          "Clearly tilted toward the government, highlighting PM Modi's Instagram address and JP Nadda's 'irresponsible' remark; it frames the Bill's passage as a decisive action and omits opposition allegations about student crackdowns.",
+          "Published a concise, agency-fed report (PTI) that sticks to facts and procedure, noting the Bill was passed 'without debate' and quoting Rijiju, but offers no analysis or opposition criticism, indicating a neutral but thin coverage."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "ndtv",
+          "india_news",
+          "business_standard"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "indian_express",
+        "facts": [
+          "Lok Sabha passed the Registration of Births and Deaths Amendment Bill, 2026, without debate amid opposition sloganeering.",
+          "The Public Examinations Prevention of Unfair Means (Anti-Paper Leak) Bill, 2026, was passed by both Houses; Rajya Sabha passed it by voice vote after Lok Sabha cleared it, amid an Opposition walkout.",
+          "The anti-paper leak law prescribes jail term of 5-10 years and fine up to Rs 50 lakh for individuals; organised rackets face minimum 7 years and fine up to Rs 10 crore.",
+          "PM Modi, in a late-night video message, said the government is building a robust technology-driven examination system.",
+          "Opposition MPs, including those from INDIA bloc, protested demanding a discussion on alleged embezzlement of Ram Mandir donations; they held placards like 'Where is Amit Shah?'",
+          "Congress MP KC Venugopal moved a privilege motion against Union Minister Jitendra Singh."
+        ],
+        "opinions": [
+          "Kiren Rijiju said it was unfortunate that no Opposition party participated in the discussion on the Registration of Births and Deaths Bill.",
+          "Rahul Gandhi alleged PM Modi and Amit Shah are trying to silence Gen Z through FIRs and account takedowns after student protests; Kharge alleged forced detentions and use of pellet guns."
+        ],
+        "sent_scr": -0.3,
+        "obj_scr": 0.65,
+        "link": "https://indianexpress.com/article/india/parliament-monsoon-session-live-updates-day-10-judges-bill-pm-modi-rahul-gandhi-amit-shah-10811420/"
+      },
+      {
+        "name": "ndtv",
+        "facts": [
+          "Bihari Independent MP Pappu Yadav was attacked with a shoe at a Delhi press conference; his attacker also carried a knife, handed to police.",
+          "Yadav said he had received threats from sadhus, including a Rs 51 lakh bounty and a call to burn him alive.",
+          "The attacker, Sumit from Bulandshahr, resented Yadav's saffron-robed protest in Parliament.",
+          "Yadav's protest was a skit depicting the alleged misappropriation of Ram Temple donations.",
+          "A complaint was filed by a delegation led by BJP's Bansuri Swaraj, alleging the skit hurt Hindu sentiments; they sought preservation of CCTV and video evidence."
+        ],
+        "opinions": [
+          "Yadav said, 'I have not committed any crime. I actually tried to protect the person who had come to attack me.'",
+          "Yadav said they will continue to demand a discussion on the offerings theft; stance will be decided by Rahul Gandhi, Priyanka Gandhi, and Akhilesh Yadav.",
+          "The complaint alleged that the use of saffron robes and tilak for political theatre has caused widespread hurt and outrage among members of the Hindu community."
+        ],
+        "sent_scr": -0.2,
+        "obj_scr": 0.7,
+        "link": "https://www.ndtv.com/india-news/been-receiving-threats-pappu-yadav-to-ndtv-after-shoe-attack-11856548"
+      },
+      {
+        "name": "india_news",
+        "facts": [
+          "PM Modi addressed the nation via Instagram after the anti-paper leak bill was passed in both Houses.",
+          "PM Modi said the paper leak mafia will not be spared and there is need for full use of technology in education.",
+          "The Public Examination Prevention of Unfair Means Amendment Bill, 2026, was cleared in Rajya Sabha by voice vote amid a walkout by several Opposition parties; Lok Sabha passed it on Wednesday.",
+          "The bill provides minimum 5 years and up to 10 years jail plus fine up to Rs 50 lakh for individuals; organised crimes face minimum 7 years and fine not less than Rs 10 crore.",
+          "BJP leader JP Nadda accused the Opposition of being irresponsible and having no respect for parliamentary proceedings."
+        ],
+        "opinions": [
+          "PM Modi's statement that 'paper leak mafia will not be spared' and that an efficient exam system is being set up.",
+          "Nadda's accusation that Opposition walkout shows disrespect for parliamentary democracy.",
+          "The government expressed commitment to go the extra mile to safeguard the interests of students, who are the country's future."
+        ],
+        "sent_scr": 0.1,
+        "obj_scr": 0.6,
+        "link": "https://www.india.com/news/india/pm-narendra-modi-addresses-nation-via-instagram-after-anti-paper-leak-amendment-bill-gets-approved-in-parliament-says-paper-leak-mafia-will-not-be-spared-8488662/"
+      },
+      {
+        "name": "business_standard",
+        "facts": [
+          "Lok Sabha passed the Registration of Births and Deaths Amendment Bill, 2026, without a debate amid protests over police crackdown on students during the July 20 parliament march.",
+          "The bill was passed by voice vote when the House reassembled at noon with BJP MP Dilip Saikia in the Chair.",
+          "Opposition members trooped into the Well demanding the presence of Home Minister Amit Shah.",
+          "Parliamentary Affairs Minister Kiren Rijiju expressed displeasure at the lack of participation and said the government wanted a discussion.",
+          "BJP MP Aparajita Sarangi, chair of JPC on Constitution 130th Amendment Bill, was granted an extension for the panel's report till the first day of last week of the Winter Session.",
+          "The opposition's protest was over the police crackdown during the July 20 parliament march."
+        ],
+        "opinions": [
+          "Rijiju: 'It is unfortunate. Please do not repeat this in the future. People who sent you to Parliament will seek answers from you.'",
+          "Saikia said it was unfortunate that the bill had to be passed without cooperation."
+        ],
+        "sent_scr": -0.1,
+        "obj_scr": 0.75,
+        "link": "https://www.business-standard.com/india-news/lok-sabha-passes-births-and-deaths-amendment-bill-2026-amid-protests-126073100626_1.html"
+      }
+    ],
+    "genres": [
+      "politics",
+      "crime",
+      "education",
+      "legal issues",
+      "social issues"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {
+        "people": [
+          "kiren rijiju",
+          "narendra modi",
+          "jitendra singh",
+          "kc venugopal",
+          "dilip saikia",
+          "amit shah",
+          "shivraj singh chauhan",
+          "om birla",
+          "rahul gandhi",
+          "mallikarjun kharge",
+          "kalyan banerjee",
+          "cp radhakrishnan"
+        ],
+        "organizations": [
+          "lok sabha",
+          "rajya sabha",
+          "parliament",
+          "opposition",
+          "india bloc",
+          "bjp",
+          "congress",
+          "tmc",
+          "business advisory committee"
+        ],
+        "locations": [
+          "delhi",
+          "ayodhya",
+          "jammu and kashmir"
+        ]
+      },
+      "keywords": {
+        "2-grams": [
+          "paper leak",
+          "lok sabha",
+          "rajya sabha",
+          "amit shah",
+          "pm modi"
+        ],
+        "3-grams": [
+          "registration of births",
+          "births and deaths",
+          "public examinations prevention",
+          "unfair means amendment",
+          "business advisory committee"
+        ]
+      },
+      "sub_topics": [
+        "parliamentary proceedings",
+        "bill passage",
+        "opposition protest",
+        "education reforms",
+        "anti-paper leak law",
+        "student protests",
+        "ram mandir donation controversy",
+        "question hour disruption"
+      ]
+    },
+    "feed_analysis": {
+      "card_headline": "Parliament passes key bills amid uproar, protests and a shoe attack",
+      "card_summary": "Opposition protests over Ram Mandir donations and student crackdown stall Parliament, but anti-paper leak and birth/death bills pass by voice vote, with drama extending to a shoe attack.",
+      "coverage_pulse": "Coverage focuses on dramatic parliamentary disruptions, with policy substance secondary to protest theatre.",
+      "complete_picture": {
+        "shared_ground": "Both Houses were repeatedly adjourned as opposition MPs demanded answers on alleged Ram Mandir donation embezzlement and police action against protesting students. In the din, the government passed two bills by voice vote: a stricter anti-paper leak law and a birth/death registration amendment.",
+        "where_it_splits": "Most coverage frames the opposition as either principled accountability-seeking or as disruptive theatre, while government sources emphasize wasted legislative time. Separate threads highlight the shoe attack on an MP and the privilege motion, pulling attention toward parliamentary conduct rather than the bills' content.",
+        "why_it_matters": "The session shows how major legislation can pass with minimal debate when institutions are polarized, while the underlying grievances—exam integrity, donation transparency, student protest treatment—remain unresolved and politically charged."
+      },
+      "narrative_signals": [
+        "Anti-paper leak bill with harsher penalties passed despite opposition walkout",
+        "Opposition protests centered on 'Where is Amit Shah?' and Ram Mandir donation allegations",
+        "Births and Deaths Amendment Bill passed without debate; minister calls it unfortunate",
+        "Pappu Yadav's saffron-robed protest leads to a shoe attack and police complaint",
+        "Student crackdown and Gen Z 'silencing' become a rallying issue for opposition leaders"
+      ],
+      "blindspot_signals": [
+        "Little scrutiny of the bills' actual provisions and potential implementation gaps",
+        "The Ram Mandir donation embezzlement allegations are repeated but not investigated in these reports",
+        "Coverage emphasizes political drama over the impact of exam reforms on students and state governments",
+        "The privilege motion and procedural disputes are reported as events rather than their constitutional significance"
+      ],
+      "reader_takeaway": "Parliament is churning out laws in an atmosphere of protest and counter-protest, leaving core accountability questions unresolved.",
+      "visual_atoms": [
+        "Parliament adjournments",
+        "Voice vote",
+        "Saffron robes skit",
+        "Shoe attack",
+        "Paper leak mafia"
+      ]
+    },
+    "saved_at": "2026-08-03 04:58:59.273000"
+  },
+  {
+    "cls_id": 1785731547872,
+    "art_ids": [
+      "6a6ee10752eaed5cd152e45f",
+      "6a6d8af7943ea9015578551d",
+      "6a7011fcfa270867e63a8c95"
+    ],
+    "headline": "Trump Calls Off Iran Strikes? Deal Claims vs. Fresh Attack Signals",
+    "intro": "Trump says strikes on Iran halted for possible deal, but White House signals and media reports suggest fresh attacks may still come.",
+    "qna": [
+      {
+        "que": "What did President Trump announce about planned strikes on Iran?",
+        "ans": [
+          "Trump said the US and Israel agreed to hold off on attacks at Iran's and Middle Eastern countries' request, pending a rapid deal that would include immediate opening of the Strait of Hormuz and end of Iran's nuclear threat. He stressed the US remains militarily prepared.",
+          "Reports Trump's Truth Social post verbatim, including that Israel joined the commitment; also notes WSJ and CBS report fresh strikes could begin as soon as weekend, indicating a contradiction.",
+          "Does not directly mention the cancellation announcement; focuses on White House saying Trump is weighing fresh strikes and that Iran continues to attack tankers, implying no deal yet.",
+          "Confirms cancellation but says it was subject to making a deal, and mentions CNN report of fresh strikes, highlighting conditionality."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "business_standard",
+          "india_news"
+        ]
+      },
+      {
+        "que": "What is the status of the truce agreement between the US and Iran?",
+        "ans": [
+          "There was a preliminary deal/MOU last month that quickly collapsed; both sides accused each other of violating terms.",
+          "States the preliminary deal was signed in June, abandoned, and US resumed attacks after accusing Iran of targeting commercial ships; Tehran later suspended MOU accusing Washington of violating commitments.",
+          "Accuses Iran of signing MOU then breaking it, shooting at commercial ships, killing American soldiers, and says Trump won't tolerate it; omits US violations.",
+          "Does not discuss MOU details, but notes Iran accused US of escalating tensions and warned regional states cooperating with Washington."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "business_standard",
+          "india_news"
+        ]
+      },
+      {
+        "que": "What is happening in the Strait of Hormuz?",
+        "ans": [
+          "Iran has largely closed the strategic waterway; tankers have been attacked; Trump's deal demands full reopening.",
+          "Says the Strait has mostly been closed by Iran since war broke out; includes that deal would open it; no mention of recent attacks.",
+          "Reports Revolutionary Guard struck two more tankers on Friday and Kuwait intercepted drones, showing active conflict.",
+          "Mentions efforts through Oman to allow commercial traffic to resume, implying the Strait remains blocked and dangerous."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "business_standard",
+          "india_news"
+        ]
+      },
+      {
+        "que": "How are other countries in the region involved?",
+        "ans": [
+          "Middle Eastern countries requested Trump to hold off strikes; Saudi Arabia's crown prince spoke with Trump; mediators from Qatar and Pakistan are working to de-escalate.",
+          "Only says 'Iran and other Middle Eastern countries' asked for hold-off, no details on specific leaders.",
+          "Makes no reference to regional diplomatic efforts, focusing solely on US-Iran military tensions.",
+          "Provides detailed account of Saudi crown prince's call and Qatar/Pakistan mediation, framing a broader diplomatic push."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "business_standard",
+          "india_news"
+        ]
+      },
+      {
+        "que": "How do the three articles differ in coverage, emphasis, and narrative?",
+        "ans": [
+          "All report on the Iran-US tensions and Trump's handling, but with distinct angles: NDTV centers Trump's statement with alarms about fresh strikes; Business Standard emphasizes White House warning and Iranian aggression; India News includes diplomatic context and mediations.",
+          "Carries full text of Trump's post and cites unnamed US officials on possible strikes, presenting both Trump's claim and conflicting media reports without editorializing; level of detail high on US perspective.",
+          "Uses official White House statement and brief update on tanker attacks; more condensed and arguably sympathetic to US official line, calling Iran's actions 'terrorist behavior'; lacks diplomatic nuance.",
+          "Balances Trump's announcement with regional reactions and mediation efforts, giving more weight to international diplomacy; also includes security alert and live updates, indicating a broader geopolitical lens."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "business_standard",
+          "india_news"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "NDTV",
+        "facts": [
+          "Trump said the US and Israel agreed to hold off planned strikes on Iran at the request of Tehran and other Middle Eastern countries, claiming a deal framework was reached.",
+          "Trump stated the emerging deal includes the immediate, complete and total opening of the Strait of Hormuz and an end to Iran's nuclear threat.",
+          "Trump said he cancelled the attack subject to being able to rapidly make a deal, with Israel agreeing to join the commitment.",
+          "The article cites WSJ reporting that Trump ordered fresh strikes to convince Iran to surrender, possibly starting that weekend, and CBS reporting US-Israel planning of joint strikes on energy targets.",
+          "The article notes that the US and Israel had conducted joint strikes in February that killed Iran's supreme leader Ali Khamenei, and that a preliminary US-Iran truce deal was signed in June but later abandoned."
+        ],
+        "opinions": [
+          "Trump's claim that a deal's 'perimeters' have been agreed and that the cancellation is for the 'future benefit of the WORLD' is an unverified political assertion.",
+          "Trump's description of US military readiness as 'levels of Military Terror, Strength, and Power not seen since World War II' is confrontational rhetoric.",
+          "The article's framing that this was the first time Israel would join attacks on Iran since the initial war phase is an analytical observation.",
+          "Trump's demand to 'Get to work, everybody, and get it DONE' reflects a conditional and transactional approach to the deal."
+        ],
+        "sent_scr": -0.4,
+        "obj_scr": 0.7,
+        "link": ""
+      },
+      {
+        "name": "Business Standard",
+        "facts": [
+          "The White House signalled that President Trump is weighing fresh strikes on Iran after accusing Tehran of violating a truce, attacking commercial ships in the Strait of Hormuz and killing American soldiers.",
+          "There were no US strikes on Iran overnight, but Iran's Revolutionary Guard said it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones.",
+          "White House press secretary Karoline Leavitt charged that Tehran signed a memorandum of understanding with the US last month but quickly broke it, shot at commercial ships, and killed American soldiers.",
+          "Trump told reporters 'we just want to win in Iran' and signalled that he expected US military action to continue for some time.",
+          "Hamas confirmed it will disarm in a potential breakthrough for ending the war in Gaza, though major obstacles remain."
+        ],
+        "opinions": [
+          "Leavitt's characterization of Iran's actions as 'terrorist behaviour' is an administration opinion rather than an established fact.",
+          "The statement 'Iran will continue to pay' is a threat reflecting US policy, not an objective assessment.",
+          "The article's description of the Hamas disarmament as a 'potential breakthrough' is an editorial judgment.",
+          "Trump's repeated warning 'Well be hitting them very hard' is aggressive rhetoric aimed at pressuring Iran."
+        ],
+        "sent_scr": -0.6,
+        "obj_scr": 0.7,
+        "link": ""
+      },
+      {
+        "name": "India News",
+        "facts": [
+          "Trump said he has cancelled strikes against Iran subject to rapidly making a deal, in a Truth Social post, and said the decision was taken alongside Israel.",
+          "Trump said he reached the decision after Iran and other Middle Eastern countries asked him to hold off any attack, and that any agreement would include opening the Strait of Hormuz and ending Iran's nuclear threat.",
+          "The US government urged Americans in the Middle East to be prepared for flight cancellations, periodic airspace closures, and travel disruptions due to possible escalation.",
+          "Trump spoke with Saudi Arabia's Crown Prince Mohammed bin Salman, who reinforced Saudi Arabia's desire for de-escalation and raised concerns about potential strikes.",
+          "Mediating nations Qatar and Pakistan, including Trump envoy Steve Witkoff, were working to arrange an Iran-Oman deal to resume commercial traffic through the Strait of Hormuz.",
+          "CNN reported that the US was planning fresh strikes on Iran as soon as that weekend."
+        ],
+        "opinions": [
+          "The article calls the development 'significant,' which is an editorial evaluation.",
+          "Trump's framing that the cancellation is for the 'future benefit of the WORLD' and a 'successful and prosperous Iran' is self-justifying rhetoric.",
+          "Tehran's warning that any regional state cooperating with Washington would be 'engulfed by the flames of war' is a threat and an opinion.",
+          "The report that MBS reinforced Saudi Arabia's desire for de-escalation suggests a diplomatic view that further strikes would be harmful."
+        ],
+        "sent_scr": -0.3,
+        "obj_scr": 0.6,
+        "link": ""
+      }
+    ],
+    "genres": [
+      "politics",
+      "world news",
+      "military",
+      "geopolitics",
+      "economy"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {},
+      "keywords": {
+        "bigrams": [
+          "president trump",
+          "middle eastern",
+          "gulf countries",
+          "nuclear threat",
+          "military operations"
+        ],
+        "trigrams": [
+          "strait of hormuz",
+          "middle eastern countries",
+          "end the war",
+          "joint strikes on",
+          "complete and total"
+        ]
+      },
+      "sub_topics": []
+    },
+    "feed_analysis": {
+      "card_headline": "Trump cancels Iran strikes, cites pending deal; White House signals fresh action",
+      "card_summary": "Trump says Iran and regional allies asked for a pause, with a deal to reopen the Strait of Hormuz and end Tehran's nuclear threat. White House still threatens strikes, as Iranian attacks on tankers continue.",
+      "coverage_pulse": "Coverage swings between deal optimism and warnings of imminent escalation, with official statements and anonymous military planning reports driving the narrative.",
+      "complete_picture": {
+        "shared_ground": "All accounts agree that Trump announced a conditional pause on US-Israel strikes after Iran and regional countries requested negotiations, with the stated deal centered on reopening the Strait of Hormuz and ending Iran's nuclear threat. Previous truce efforts collapsed after mutual accusations of violations.",
+        "where_it_splits": "Some reports emphasize Trump's framing of a diplomatic breakthrough and his pressure on Iran, while others focus on White House warnings of continued strikes and fresh Iranian attacks on tankers, creating tension between the announced pause and ongoing military preparations.",
+        "why_it_matters": "The Strait of Hormuz is a critical global energy chokepoint, and any US-Iran escalation could disrupt oil supplies and trigger wider regional war. The mixed signals leave uncertainty about whether diplomacy or force will prevail."
+      },
+      "narrative_signals": [
+        "Trump publicly claims Iran requested a pause and a deal is within reach.",
+        "White House statements accuse Iran of breaking the truce and promise more strikes.",
+        "Iranian Revolutionary Guard reports fresh tanker attacks, complicating the pause narrative.",
+        "Mediation efforts by Gulf states and Pakistan are described as urgent behind-the-scenes diplomacy.",
+        "US advisories tell citizens in the Middle East to prepare for possible disruptions."
+      ],
+      "blindspot_signals": [
+        "Little detail on what Iran actually agreed to or whether Tehran confirmed the deal parameters.",
+        "Scant analysis of Israeli decision-making and whether Israel truly endorses the pause.",
+        "The role of the collapsed June memorandum is referenced but not deeply examined.",
+        "Humanitarian and economic costs of the conflict in the region are largely absent from coverage."
+      ],
+      "reader_takeaway": "Expect continued whiplash: the pause may be real, but military options remain on the table and the Strait of Hormuz stays a flashpoint.",
+      "visual_atoms": [
+        "Strait of Hormuz",
+        "Tanker attacks",
+        "Truth Social post",
+        "Camp David meeting",
+        "US travel advisory"
+      ]
+    },
+    "saved_at": "2026-08-03 04:58:59.273000"
+  },
+  {
+    "cls_id": 1785656723425,
+    "art_ids": [
+      "6a6ae0b666345566c74e2537",
+      "6a6ee12252eaed5cd152e465",
+      "6a6ee26f52eaed5cd152e490"
+    ],
+    "headline": "Assam Flood Crisis: 82 Dead, 178,000 Displaced — Conflicting Narratives Emerge",
+    "intro": "Three reports reveal Assam's flood crisis — death toll, relief efforts, and human resilience — with varying numbers, focus, and political framing.",
+    "qna": [
+      {
+        "que": "What is the current death toll, affected population, and scale of the Assam floods?",
+        "ans": [
+          "All three sources report a severe flood crisis, with seven districts affected. Numbers shift over time: India.com records 78 deaths and 3 lakh affected on July 29, while NDTV and Business Standard both report the toll at 82 with 1.78 lakh affected by August 2, as conditions improved slightly.",
+          "Reports 78 deaths, 551 villages, 21,500+ hectares of crop damage, and 3 lakh people hit. Adds urban flooding in Kamrup Metro localities but claims no population affected there.",
+          "Confirms 82 deaths, but narrows affected villages to 349 and people to 1.78 lakh. Adds hazard detail: Dikhow River in Sivasagar and Dhansiri River in Golaghat flowing above danger marks.",
+          "States 178,000 affected and 82 dead, with Friday figure of 1.92 lakh. Names Charaideo (75,199) and Sivasagar (58,824) as worst-hit, with 15,060 hectares of crop area submerged."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com_(india_news)",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "How is the government responding with relief measures and financial assistance?",
+        "ans": [
+          "All three articles confirm government action: relief camps, distribution of essentials, and compensation are underway. The Centre sanctioned over Rs 370 crore under the State Disaster Response Fund, and CM Himanta Biswa Sarma is personally overseeing relief operations.",
+          "Highlights CM Sarma's Rs 15,000 immediate assistance per family, 30 trucks of relief materials flagged off with AGP politicians, and PM Modi meeting Assam MPs. Framing is strongly pro-government, emphasizing leadership and generosity.",
+          "Offers neutral operational data: 44 relief camps sheltering ~15,000 people and 17 distribution centers serving 5,569. Its main focus, however, is the civilian rescue story, subtly shifting credit from state to citizens.",
+          "Details bureaucratic follow-through: CM's tour, directive to submit affected-family lists by August 3, damage assessment beginning August 9, and school/Namghar restoration. Emphasizes process over politics."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com_(india_news)",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "Who is Shravan Kumar, and why does his story matter in this coverage?",
+        "ans": [
+          "Only NDTV covers this story: 25-year-old Shravan Kumar, a Class 10 dropout, used a traditional wooden boat to rescue nearly 2,000 people across five villages during the July 19 floods. India.com and Business Standard omit this event entirely.",
+          "Devotes extensive space to Shravan's effort, quoting him: 'If I had gone back to save my own house, there would have been no one left to save the others.' Notes he had no formal training or motorized boat, implying institutional rescue gaps.",
+          "No mention of civilian rescue efforts. Its narrative instead credits the CM-led government and AGP teams for all relief, reflecting a top-down, authority-focused editorial bias.",
+          "Also omits the rescuer story entirely, sticking to ASDMA data and CMO statements. This absence shows a preference for institutional reporting over human-interest angles."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "india.com_(india_news)",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "What are the discrepancies in reported damage data across the sources?",
+        "ans": [
+          "The sources broadly agree on seven flood-hit districts but differ on affected villages, crop area, and population. These gaps arise from different reporting dates: India.com's July 29 snapshot versus NDTV/Business Standard's August 2 update.",
+          "Reports 551 villages, 21 RCs, and over 21,500 hectares of crop damage, but provides no animal casualty data. It also lists Kamrup Metro as flood-affected without population impact.",
+          "Cuts the village count to 349 and omits crop-area figures. Instead, it documents washed-away roads and knocked-out electricity/communication in Nazira Co-District, adding infrastructure context.",
+          "Adds the only animal damage data: 1,543 animals washed away and 6,765 affected. Also confirms 15,060 hectares of crop area submerged, and notes CM's concern for damaged Namghars (prayer houses), a culturally specific detail."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com_(india_news)",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "How do the sources' coverage styles, biases, and narratives differ in reporting this same event?",
+        "ans": [
+          "The three outlets demonstrate sharply different editorial lenses: India.com delivers government-friendly reporting, NDTV prioritizes human-interest heroism, and Business Standard gives wire-style factual data. Each framing shapes how readers assign responsibility and effectiveness.",
+          "Uses a pro-government narrative: CM tweets, PM's review meeting, and AGP relief convoys dominate. It presents the disaster as a well-managed crisis, echoing official press releases rather than independent analysis.",
+          "Adopts a humanitarian, ground-level approach. The Shravan Kumar feature is implicit criticism of institutional rescue limits. Its tone is empathetic and slightly skeptical, relying on emotional storytelling alongside ASDMA data.",
+          "Maintains a detached, data-heavy style, clearly auto-generated from PTI syndication. It neither praises nor criticizes the government, focusing on administrative timelines, SDRF funds, and CM directives. This neutrality is both strength and limitation."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com_(india_news)",
+          "ndtv",
+          "business_standard"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "India News",
+        "facts": [
+          "As per the report, Assam flood deaths reached 78, with seven districts affected: Sivasagar, Charaideo, Golaghat, Jorhat, Nagaon, Biswanath and Kamrup Metro.",
+          "Floods affected 21 Revenue Circles, 551 villages and about 3 lakh people; more than 21,500 hectares of crop area were impacted.",
+          "Kamrup Metro experienced urban flooding in localities including Padumbari, Boragaon, Lachit Nagar, Zoo Road, Rukminigaon and Hatigaon, though no population was reported affected in that district.",
+          "Assam ministers flagged off 30 trucks of relief materials carrying food, clothing and essential items, accompanied by AGP MPs, MLAs and police.",
+          "Chief Minister Himanta Biswa Sarma said the government is providing Rs 15,000 immediate assistance per affected family, along with food and other supplies.",
+          "Over the previous 48 hours, nearly 3,000 more people were accommodated in 215 relief camps, according to a tweet by the Chief Minister.",
+          "Prime Minister Narendra Modi met Assam MPs and reviewed the flood situation, saying the Centre is working closely with the Assam government.",
+          "Minister Atul Bora said AGP colleagues remained on-site to support affected families and that about 30 relief vehicles were stationed for distribution."
+        ],
+        "opinions": [
+          "The article asserts that the government led by Himanta Biswa Sarma has implemented 'effective measures' for flood relief.",
+          "The Chief Minister's statement that 'the people and Government of Assam are working shoulder to shoulder' reflects a positive, reassuring tone.",
+          "The phrase 'despite the havoc and unfortunate loss of lives' conveys sympathy while emphasising government efforts."
+        ],
+        "sent_scr": -0.2,
+        "obj_scr": 0.6,
+        "link": ""
+      },
+      {
+        "name": "NDTV",
+        "facts": [
+          "25-year-old Shravan Kumar led a rescue operation on the Dikhow River at Bihubor using a traditional wooden boat called Tulunga Nao, saving an estimated 2,000 people across five villages.",
+          "His own house was flooded, but he chose to help others, saying 'If I had gone back to save my own house, there would have been no one left to save the others.'",
+          "Shravan, a Class 10 dropout with no formal rescue training or motorised boat, worked with friends from 10 am through the night, rescuing children, elderly people, pregnant women and patients.",
+          "The July 19 floods devastated Nazira Co-District of Sivasagar, submerging villages, washing away roads and knocking out electricity and communication networks.",
+          "ASDMA data showed the number of affected people dropped to 1.78 lakh, but the number of affected districts rose from five to seven.",
+          "No fresh casualties were reported in the past 24 hours, keeping the flood-related death count at 82.",
+          "The Dikhow River at Sivasagar and the Dhansiri River at Numaligarh continued to flow above the danger mark.",
+          "44 relief camps and 17 relief distribution centres were operational, sheltering about 15,000 displaced people and catering to 5,569 people."
+        ],
+        "opinions": [
+          "The article calls Shravan's effort 'one of the most remarkable rescue efforts of Assam's flood season', a subjective appraisal.",
+          "It praises Shravan by saying he 'relied on nothing but his knowledge of the river', framing his lack of formal training as extraordinary.",
+          "The description of rescue operations in 'complete darkness' with 'dangerous floating timber' adds an emotional, heroic tone."
+        ],
+        "sent_scr": 0.1,
+        "obj_scr": 0.5,
+        "link": ""
+      },
+      {
+        "name": "Business Standard",
+        "facts": [
+          "The flood situation improved slightly, with affected people down to 178,000, although the number of affected districts increased to seven.",
+          "The death toll remained unchanged at 82, with no fresh fatalities reported in the last 24 hours.",
+          "The Centre sanctioned over Rs 370 crore under the State Disaster Response Fund (SDRF), and Chief Minister Himanta Biswa Sarma planned to visit worst-hit areas.",
+          "349 villages remained affected across Golaghat, Sivasagar, Charaideo, Bajali, Dhemaji, Sonitpur and Jorhat; Charaideo was worst-hit with 75,199 people affected, followed by Sivasagar with 58,824.",
+          "A crop area of 15,060 hectares remained submerged; 1,543 animals were washed away and another 6,765 were affected.",
+          "CM Sarma directed district commissioners to expedite affected-family lists for financial assistance from August 3, ensure uninterrupted relief kit distribution, and complete school damage assessments before August 10.",
+          "The Chief Minister also asked for a list of damaged Namghars (Vaishnavite prayer centres) for restoration support.",
+          "A comprehensive flood damage assessment was scheduled to begin on August 9."
+        ],
+        "opinions": [
+          "Sarma's social media post called the SDRF approval and Inter-Ministerial Central Teams' deputation a reflection of the Centre's 'unwavering commitment' to the people.",
+          "The article quotes Sarma promising a 'full proof assessment exercise' to ensure 'appropriate compensation' to affected people.",
+          "The overall framing of the report is cautiously optimistic, emphasising improvement and proactive government measures."
+        ],
+        "sent_scr": -0.1,
+        "obj_scr": 0.8,
+        "link": ""
+      }
+    ],
+    "genres": [
+      "weather",
+      "politics",
+      "social issues",
+      "environment"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {},
+      "keywords": {},
+      "sub_topics": []
+    },
+    "feed_analysis": {
+      "card_headline": "Assam floods: Death toll climbs, relief amps up as waters slowly recede",
+      "card_summary": "Flooding across seven Assam districts has left at least 82 dead and nearly 180,000 people displaced; authorities are ramping up relief while rescue stories emerge.",
+      "coverage_pulse": "Coverage is shifting from crisis numbers to recovery logistics and individual heroism.",
+      "complete_picture": {
+        "shared_ground": "All reports converge on the same official data: seven districts affected, around 178,000 people impacted, 82 deaths, with Charaideo and Sivasagar worst hit. There is broad agreement that the situation is improving, relief camps are housing thousands, and both state and central governments are deploying resources.",
+        "where_it_splits": "Some outlets emphasize government response and leadership, quoting officials and detailing aid packages, while others focus on ground-level human drama, such as a volunteer rescuing nearly 2,000 people in a wooden boat. Differences also appear in the scale metrics—earlier reports cited over 300,000 affected and 78 deaths, while later ones settle on 178,000 and 82—reflecting an evolving situation rather than direct contradiction.",
+        "why_it_matters": "The floods are a recurring climate stressor for Assam, and this event tests institutional preparedness, disaster management, and political accountability. How the state handles relief, compensation, and rebuilding—especially for vulnerable rural populations—will shape recovery and future resilience."
+      },
+      "narrative_signals": [
+        "Official death toll and affected population figures are being updated downward as water recedes.",
+        "Political messaging highlights central-state coordination and financial assistance.",
+        "Local volunteerism and citizen rescues are emerging as a prominent human-interest angle.",
+        "Relief logistics (camps, distribution centres, crop damage) dominate recent reporting.",
+        "CM's field visits and damage assessments are framed as the next step."
+      ],
+      "blindspot_signals": [
+        "Little attention is paid to long-term displacement, livelihood loss, or the adequacy of the Rs 15,000 compensation.",
+        "Climate change linkages and flood mitigation infrastructure are largely underexplored.",
+        "The voices of affected communities themselves are mostly absent beyond official briefings.",
+        "Discrepancies in affected-village counts between reports are not reconciled."
+      ],
+      "reader_takeaway": "Behind the improving numbers, thousands remain in camps and the hardest-hit districts face a slow road to recovery.",
+      "visual_atoms": [
+        "flooded village",
+        "relief trucks",
+        "wooden rescue boat",
+        "death toll tracker",
+        "crop damage map"
+      ]
+    },
+    "saved_at": "2026-08-02 08:05:13.516000"
+  },
+  {
+    "cls_id": 1785656723414,
+    "art_ids": [
+      "6a6c50d66bb7438f500b1649",
+      "6a6ae16366345566c74e256b",
+      "6a6ade8866345566c74e2577",
+      "6a6d8a57943ea90155785515"
+    ],
+    "headline": "Monsoon Mayhem: IMD Alerts Span Mumbai to Assam as Floods Worsen",
+    "intro": "Multiple Indian media reports track IMD's monsoon alerts, contrasting Mumbai's heavy rain warnings with Assam's devastating floods, revealing coverage gaps.",
+    "qna": [
+      {
+        "que": "What weather alerts have been issued for Mumbai and Maharashtra's coastal districts, and how do reports vary in urgency?",
+        "ans": [
+          "All sources confirm the IMD issued a yellow alert for Mumbai on Thursday with heavy rain, thunderstorms, lightning, and gusty winds of 50-60 kmph. Thane and Raigad are under orange alert for Thursday and Friday, while Palghar has an orange alert for Friday, with heavy to very heavy rainfall and winds up to 70 kmph. Conditions are expected to ease by the weekend.",
+          "Emphasizes waterlogging and 'harsher conditions' in Thane/Raigad; gives practical updates like office closures, amplifying urgency.",
+          "Provides Mumbai rainfall data (1,490 mm in July) and expands alerts to Dhule, Nashik, Nagpur, Amravati, Pune ghats, and Jalgaon.",
+          "Mentions Maharashtra only in a broad list; omits Mumbai-specific alert details."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "indian_express",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "What is causing the current monsoon surge, and how long is it expected to last?",
+        "ans": [
+          "Reports attribute the surge to a deep depression over Odisha moving toward southeast Madhya Pradesh and Chhattisgarh, drawing moisture from the Arabian Sea. Heavy rain is expected through Friday, with lighter showers on the weekend.",
+          "Quotes Skymet's Palawat linking the depression to Arabian Sea moisture; says Mumbai rain may be light to moderate; provides the most detailed cause.",
+          "Does not explain the cause; only states the forecast and weekend easing.",
+          "Attributes Assam flooding to Nagaland rainfall (Mokokchung 493% departure), not the Odisha depression."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "india.com",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "How serious is the Assam flood situation, and what new warnings are in place?",
+        "ans": [
+          "Assam is on high alert. IMD has issued an orange alert for Tinsukia and heavy rainfall forecast across the Northeast from July 30 to August 1, raising risks of floods, flash floods, and landslides. Several districts remain submerged.",
+          "Gives death toll 78, 3 lakh affected, 550 villages submerged; warns fresh rain could worsen flooding.",
+          "Mentions Tinsukia/Nagaland alerts and Assam districts at risk, but no toll or population figures.",
+          "Only a related link notes deaths at 82 and 193,000 affected; article itself skips Assam details."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "india.com",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "What is the broader geographical scope of weather warnings across India, and how is it covered?",
+        "ans": [
+          "Beyond Maharashtra and the Northeast, IMD warnings cover Gujarat, Kerala, Karnataka, Rajasthan, and other states. Thunderstorms, gusty winds, and squally weather over the Arabian Sea and Bay of Bengal are also forecast.",
+          "Provides a comprehensive national list: Gujarat, Kerala, Delhi, sea warnings; the only all-India perspective.",
+          "Covers only Maharashtra; ignores other states.",
+          "Focuses solely on Northeast; no mention of western India or marine warnings."
+        ],
+        "srcs": [
+          "common_answer",
+          "business_standard",
+          "indian_express",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "How do the four sources differ in coverage style, focus, and potential bias in reporting the monsoon situation?",
+        "ans": [
+          "Each outlet tailors coverage to its audience: India.com and Indian Express prioritize Mumbai/Maharashtra; NDTV focuses on Assam's crisis; Business Standard gives a national roundup. These choices create differences in urgency, data depth, and narrative.",
+          "Uses dramatic phrasing and practical updates; omits meteorological causes, driving urgency.",
+          "Data-driven, includes expert quote, measured tone; downplays Mumbai's risk within state.",
+          "Highlights death toll and villages for empathy; ignores Maharashtra alerts, showing regional bias.",
+          "Detached list style, little analysis; includes business news for professional readers."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "indian_express",
+          "ndtv",
+          "business_standard"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "India.com",
+        "facts": [
+          "IMD issued yellow alert for Mumbai on Thursday, predicting heavy rainfall at isolated places, lightning, and wind speeds of 50-60 kmph.",
+          "Thane and Raigad are on orange alert for Thursday and Friday, bracing for heavy to very heavy rainfall, lightning, and winds gusting up to 70 kmph.",
+          "Palghar will see moderate showers and thunderstorms on Thursday, followed by heavier, intensified rainfall on Friday.",
+          "IMD forecast a fresh spell of heavy to very heavy rainfall across Assam and several northeastern states over the next three to four days, July 30 to August 1.",
+          "Orange alert issued for Tinsukia district in Assam and for Mon, Mokokchung, and Wokha districts of Nagaland.",
+          "Rainfall activity in Mumbai is expected to slow down by the weekend, bringing light to moderate showers.",
+          "Maharashtra has been impacted by monsoon with heavy rain, leading to severe water logging in several areas.",
+          "IMD cautioned that heavy rainfall in Nagaland may generate significant runoff affecting adjoining Assam districts of Charaideo, Sivasagar, Jorhat, and Golaghat."
+        ],
+        "opinions": [
+          "Raising concerns over flooding, flash floods, waterlogging, and landslides in vulnerable areas.",
+          "Nearby areas face even harsher conditions than Mumbai.",
+          "Fresh spell of rainfall is likely to increase the risk of runoff and inundation in Upper Assam."
+        ],
+        "sent_scr": -0.2,
+        "obj_scr": 0.7,
+        "link": ""
+      },
+      {
+        "name": "The Indian Express",
+        "facts": [
+          "IMD upgraded weather warning for Mumbai and Thane to yellow alert for July 30, with thunderstorms, lightning, heavy rainfall, and gusty winds at 50-60 kmph.",
+          "IMD issued orange warning for Palghar district on Friday, July 31, for heavy to very heavy rainfall, thunderstorms, and lightning.",
+          "Orange alerts were sounded in Raigad, Dhule, Nashik, Nagpur, Amravati, and the ghats of Pune on Thursday.",
+          "Jalgaon district predicted extremely heavy rainfall with thunderstorms, lightning, and gusty winds at isolated places.",
+          "Meteorologists attributed the surge in monsoon currents to a deep depression system over Odisha.",
+          "Mahesh Palawat from Skymet Weather Services said the deep depression system is expected to shift towards southeast Madhya Pradesh and Chhattisgarh, bringing strong winds from the Arabian Sea.",
+          "IMD data: Colaba coastal observatory recorded 4.8 mm rain and Santacruz 0.1 mm between July 28 and July 29; eastern suburbs saw an average 8 mm rainfall and western suburbs/island city an average 3 mm.",
+          "Mumbai suburbs have received 1,490 mm in July, significantly higher than the city's actual July rain quota."
+        ],
+        "opinions": [
+          "Monsoon surge is likely upon the west coast over the next couple of days.",
+          "The chances of rain increase as there is an incursion of moisture.",
+          "In Mumbai, the intensity of rain may remain light to moderate."
+        ],
+        "sent_scr": 0.0,
+        "obj_scr": 0.8,
+        "link": ""
+      },
+      {
+        "name": "NDTV",
+        "facts": [
+          "Flood death toll in Assam has risen to 78, with three more bodies recovered in the last 24 hours.",
+          "Seven districts in Assam remain flood-affected, with more than three lakh people impacted and over 550 villages submerged.",
+          "IMD issued an Orange Alert for the next three days, forecasting heavy to very heavy rainfall across parts of the Northeast.",
+          "Orange alert issued for Tinsukia district; heavy rainfall expected in Arunachal Pradesh districts including East Siang, Lohit, Namsai, Longding, Papumpare, Lower Subansiri, and Lower Dibang Valley.",
+          "Assam districts including Dhemaji, Lakhimpur, Charaideo, Sivasagar, Jorhat, and Golaghat could also be affected.",
+          "Nagaland's Mon, Wokha, and Mokokchung districts are under similar alerts.",
+          "Mokokchung recorded a 493% departure from normal rainfall on July 19, Wokha 108%, and Mon 45%.",
+          "Localised extremely heavy rainfall in Charaideo and Sivasagar worsened the flood situation."
+        ],
+        "opinions": [
+          "The fresh spell of rain raises fears of a fresh spell of flooding.",
+          "The IMD cautioned that rain could aggravate waterlogging, flooding, flash floods, localised landslides, and disrupt vehicular movement in vulnerable areas.",
+          "The flooding was largely triggered by exceptionally heavy rainfall in Nagaland."
+        ],
+        "sent_scr": -0.5,
+        "obj_scr": 0.7,
+        "link": ""
+      },
+      {
+        "name": "Business Standard",
+        "facts": [
+          "Delhi recorded a minimum temperature of 27.9 degrees Celsius; Safdarjung observatory recorded the same, Palam 25.6°C, Lodhi Road 27.6°C, and Ayanagar 27.1°C.",
+          "IMD forecast very light to light rain in Delhi through the day and similar weather conditions over the next few days.",
+          "Maximum temperature in Delhi is likely to settle around 34 degrees Celsius.",
+          "Central Pollution Control Board recorded an Air Quality Index (AQI) of 76 at 9 am, in the satisfactory category.",
+          "IMD forecast heavy to very heavy rainfall with isolated extremely heavy rainfall over Gujarat and Kerala.",
+          "Heavy to very heavy rainfall expected at isolated places over Coastal Karnataka, East Rajasthan, Konkan and Goa, Lakshadweep, Maharashtra, and South Interior Karnataka.",
+          "Squally weather over the Arabian Sea: winds of 50-60 kmph gusting to 70 kmph along and off south Gujarat, north Maharashtra, and adjoining northeast and east-central Arabian Sea.",
+          "Over the Bay of Bengal, squally winds of 45-55 kmph gusting to 65 kmph are likely over parts of the Gulf of Mannar and southwest Bay of Bengal."
+        ],
+        "opinions": [
+          "Delhi residents woke up to pleasant weather on Saturday.",
+          "Heavy rain is likely over the western coast.",
+          "The IMD has warned of squally weather over adjoining sea areas."
+        ],
+        "sent_scr": 0.1,
+        "obj_scr": 0.9,
+        "link": ""
+      }
+    ],
+    "genres": [
+      "weather",
+      "environment"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {
+        "people": [
+          "abhijeet sen"
+        ],
+        "organizations": [
+          "india meteorological department",
+          "imd",
+          "facebook",
+          "twitter",
+          "instagram"
+        ],
+        "locations": [
+          "maharashtra",
+          "mumbai",
+          "raigar",
+          "thane",
+          "palghar",
+          "pune",
+          "nagpur",
+          "assam",
+          "arunachal pradesh",
+          "nagaland",
+          "tinsukia",
+          "mon",
+          "mokokchung",
+          "wokha",
+          "charaideo",
+          "sivasagar",
+          "jorhat",
+          "golaghat"
+        ]
+      },
+      "keywords": {
+        "2gram": [
+          "orange alert",
+          "heavy rainfall",
+          "weather alerts",
+          "wind speeds",
+          "monsoon impact"
+        ],
+        "3gram": [
+          "india meteorological department",
+          "heavy to very heavy",
+          "thunderstorms and lightning",
+          "water logging in",
+          "weather predictions issued"
+        ]
+      },
+      "sub_topics": [
+        "monsoon",
+        "imd alerts",
+        "heavy rainfall forecast",
+        "thunderstorm warning",
+        "flood risk",
+        "waterlogging",
+        "landslide warning"
+      ]
+    },
+    "feed_analysis": {
+      "card_headline": "Monsoon Surge Triggers Alerts Across India",
+      "card_summary": "IMD issues orange and yellow alerts as heavy rain pounds Mumbai, Thane, and Assam, with floods killing dozens and threatening more.",
+      "coverage_pulse": "Coverage is regionally split, with Maharashtra and Northeast each getting tailored updates as the monsoon intensifies.",
+      "complete_picture": {
+        "shared_ground": "A deep depression over Odisha is pulling moisture into the west coast, causing intense rain in Maharashtra, while a separate weather system is drenching the Northeast and worsening an already deadly flood crisis.",
+        "where_it_splits": "Mumbai-focused reports emphasize city commutes and the brief lull before a fresh spell, while Northeast pieces stress cumulative deaths, submerged villages, and the risk of flash floods; a national roundup widens to alerts across Gujarat, Kerala, and other states.",
+        "why_it_matters": "The back-to-back spells strain disaster response, highlight regional disparities in monsoon impact, and point to a volatile weather pattern that could disrupt millions of lives."
+      },
+      "narrative_signals": [
+        "Orange alerts for Thane, Raigad, and Palghar, with yellow for Mumbai",
+        "Assam flood death toll rising past 78 with hundreds of villages still submerged",
+        "Deep depression over Odisha identified as the main weather driver",
+        "Rainfall expected to ease in the west over the weekend, but Northeast stays wet for days",
+        "Extremely heavy rainfall warnings extend to Gujarat, Kerala, and parts of Karnataka"
+      ],
+      "blindspot_signals": [
+        "Little detail on the adequacy of drainage and flood shelters in Mumbai's low-lying areas",
+        "Minimal attention to long-term monsoon shifts or climate change attribution",
+        "No reporting on the economic cost of disruptions or relief to affected families",
+        "Receding floodwaters can bring disease, but health risks are not addressed"
+      ],
+      "reader_takeaway": "Monsoon chaos is widespread; keep an eye on local alerts and flood risks.",
+      "visual_atoms": [
+        "IMD orange alert",
+        "Mumbai waterlogging",
+        "Assam flood villages",
+        "Gusty winds 70 kmph",
+        "Deep depression system"
+      ]
+    },
+    "saved_at": "2026-08-02 08:05:13.516000"
+  },
+  {
+    "cls_id": 1785595582475,
+    "art_ids": [
+      "6a6ae0b666345566c74e2537",
+      "6a6c52246bb7438f500b16a7",
+      "6a6d8a5c943ea90155785516"
+    ],
+    "headline": "Assam Floods: Toll Climbs, Aid Expands, and Coverage Divides",
+    "intro": "Three outlets track Assam floods as deaths mount, aid expands, and attention shifts to government response and recovery.",
+    "qna": [
+      {
+        "que": "What is the human cost and displacement in Assam's latest floods?",
+        "ans": [
+          "All reports confirm significant flood impact in Assam, with the official death toll rising from 78 to 82 and hundreds of thousands affected. The districts mentioned include Sivasagar, Charaideo, Golaghat, Jorhat, Nagaon, Biswanath and Kamrup Metro, though the latest update lists five districts still under flood.",
+          "Cites the toll at 78, with 3 lakh affected across 551 villages and 21 revenue circles, and notes Kamrup Metro's urban flooding but says no population was reported affected there.",
+          "Does not mention a specific death toll or affected numbers; it focuses entirely on the relief package announced by the CM, leaving out the scale of casualties and displacement.",
+          "Puts the toll at 82 and says only 1.92 lakh people remain affected in five districts, indicating an improving situation compared with over two lakh in eight districts earlier."
+        ],
+        "srcs": [
+          "common_answer",
+          "india_news",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "What immediate relief measures have been announced for flood-hit families?",
+        "ans": [
+          "All coverage describes state government relief: shelter in relief camps, distribution of food kits, financial aid and restoration efforts. The CM announced essential supplies kits, free textbooks, grants for damaged Namghars and schools, and Rs 15,000 immediate assistance per family.",
+          "Highlights the Rs 15,000 assistance, 30 trucks of relief materials, and PM Modi's review meeting, stressing coordinated Centre-state response.",
+          "Provides the most detailed breakdown of kit contents and numbers: 2,37,513 kits to Sivasagar and 63,000 to Charaideo. It also includes education and religious institution support omitted by others.",
+          "Focuses on relief camps and distribution centres, NDRF/SDRF operations, and the government's plan to involve insurance companies, but does not mention the Rs 15,000 assistance or specific kit numbers."
+        ],
+        "srcs": [
+          "common_answer",
+          "india_news",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "What is being done about loans, insurance and economic recovery?",
+        "ans": [
+          "The state has announced a six-month moratorium on government loans for farmers, SHGs and allied agriculture borrowers in the worst-hit districts, an additional Rs 10,000 loan for existing borrowers, and meetings with insurers and NBFCs to speed up claims and provide relief.",
+          "Omits loan relief and insurance details; it only notes supply distribution and Rs 15,000 cash assistance, giving a narrower view of recovery measures.",
+          "Presents the moratorium and additional loans as a comprehensive relief package and mentions RBI discussions for private lenders, but does not give timings or claim figures.",
+          "Adds specifics: a meeting with insurance companies and NBFCs on August 5, approval of Rs 41.67 crore under PM Surya Ghar subsidy for 9,289 beneficiaries, and says the measures apply mainly to four districts."
+        ],
+        "srcs": [
+          "common_answer",
+          "india_news",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "Which districts have been worst hit and what is the ground situation?",
+        "ans": [
+          "Sivasagar and Charaideo are consistently identified as the most affected. Others such as Golaghat, Jorhat, Nagaon, Biswanath and Kamrup Metro have also seen flooding. Rivers like Dikhow and Dhansiri are in severe flood at some locations, and people are being sheltered in relief camps.",
+          "Lists all seven flood-hit districts and affected localities in Kamrup Metro, but says urban flooding has had no reported population impact; it also says over 21,500 hectares of cropland were damaged.",
+          "Does not report the ground situation or district data; it focuses on government promises, leaving out the current misery, camps and river conditions.",
+          "Names five districts still affected, gives exact affected populations - Charaideo 77,456, Sivasagar 63,492, Jorhat 34,067 - and details river warnings, relief camp numbers and the improving trend."
+        ],
+        "srcs": [
+          "common_answer",
+          "india_news",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "How do the three sources differ in coverage, bias and narrative framing?",
+        "ans": [
+          "India News and NDTV largely echo state government messaging, with India News emphasizing the CM's and PM's response and NDTV acting as a platform for the CM's relief announcements. Business Standard is more data-driven and maintains a neutral, wire-style tone.",
+          "Frames the story around effective measures by the state government and quotes an AGP minister; it includes social media posts and phrases like 'working shoulder to shoulder,' suggesting a pro-government narrative.",
+          "Adopts an official press-release style, quoting CM Sarma extensively and describing the package as comprehensive; no critical scrutiny or independent verification is included.",
+          "Provides more empirical details - exact numbers of affected people, deaths, camps and financial figures - and notes the improvement since Thursday, giving a more balanced, update-oriented report without praising the government."
+        ],
+        "srcs": [
+          "common_answer",
+          "india_news",
+          "ndtv",
+          "business_standard"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "india_news",
+        "facts": [
+          "Death toll from Assam floods reached 78, with seven districts affected including Sivasagar, Charaideo, Golaghat, Jorhat, Nagaon, Biswanath, and Kamrup Metro.",
+          "Floods affected 21 Revenue Circles and 551 villages, impacting around 3 lakh people and damaging over 21,500 hectares of crop area.",
+          "Three recent deaths reported: two in Sivasagar and one in Golaghat.",
+          "Kamrup Metro experienced urban flooding affecting localities such as Padumbari, Boragaon, Lachit Nagar, Zoo Road, Rukminigaon, and others.",
+          "Over the last 48 hours, nearly 3,000 more people were accommodated in 215 relief camps.",
+          "Assam ministers flagged off 30 trucks carrying food, clothing, and other essentials for flood-hit districts.",
+          "CM Himanta Biswa Sarma announced Rs 15,000 immediate assistance per affected family.",
+          "PM Narendra Modi met Assam MPs and reviewed the flood situation, stating the Centre is working closely with the state government."
+        ],
+        "opinions": [
+          "The government-led by Himanta Biswa Sharma has implemented effective measures including financial assistance and distribution of supplies.",
+          "Party colleagues remained onsite to support victims' families and affected areas, demonstrating commitment.",
+          "The relief vehicles carrying essential supplies reflect ongoing efforts to support the affected population."
+        ],
+        "sent_scr": -0.2,
+        "obj_scr": 0.7,
+        "link": "https://www.india.com/news/india/assam-floods-death-toll-rises-to-78-seven-districts-still-affected-over-21000-hectares-of-cropland-impacted-8487856/"
+      },
+      {
+        "name": "ndtv",
+        "facts": [
+          "CM Sarma announced a relief package including essential supplies kits with rice, pulses, edible oil for every flood-affected family.",
+          "2,37,513 relief kits dispatched to Sivasagar district and 63,000 kits to Charaideo.",
+          "Free textbooks will be provided to affected students in Sivasagar and Charaideo; duplicate academic documents issued without fee.",
+          "One-time financial grant of Rs 1.5 lakh for each flood-damaged Namghar in Sivasagar and Charaideo.",
+          "Schools and colleges damaged by floods will receive financial assistance for repairs.",
+          "Six-month moratorium on government loans for farmers, self-help groups, animal husbandry, fisheries, and agriculture-related activities in flood-hit areas.",
+          "Borrowers repaying government loans can get an additional Rs 10,000 loan without fresh application or collateral.",
+          "State government will begin a detailed damage survey from August 7; separate relief package for women SHG members under Udyamita Scheme."
+        ],
+        "opinions": [
+          "Our effort is to ensure that no flood-affected family is left without assistance.",
+          "The government will extend every possible support for rehabilitation.",
+          "The government's immediate priority is to stand beside families who have suffered losses."
+        ],
+        "sent_scr": 0.3,
+        "obj_scr": 0.8,
+        "link": "https://www.ndtv.com/india-news/assam-floods-month-loan-moratorium-free-textbooks-among-key-measures-11845863"
+      },
+      {
+        "name": "business_standard",
+        "facts": [
+          "Two more deaths in Sivasagar and Charaideo took the Assam flood toll to 82.",
+          "Around 1,92,799 people across five districts (Sivasagar, Golaghat, Jorhat, Nagaon, Charaideo) remain affected; Charaideo worst-hit with 77,456 affected.",
+          "Dikhow and Dhansiri rivers are in severe flood situation at Sivasagar and Numaligarh in Golaghat.",
+          "Approximately 13,000 people sheltered in 54 relief camps and 26 relief distribution centres cater to 5,384 people.",
+          "NDRF and SDRF are carrying out relief operations.",
+          "State government decided to approach insurance companies and NBFCs for expeditious claim disposal and moratorium for customers in affected areas.",
+          "CM Sarma said state cabinet decided to meet private and government insurance companies on August 5 to settle claims for damaged vehicles, livestock, and properties.",
+          "Over Rs 41.67 crore approved under PM Surya Ghar pending state subsidy for 9,289 beneficiaries in affected areas, transferred directly to bank accounts."
+        ],
+        "opinions": [
+          "The flood situation has improved since Thursday when more than two lakh people in eight districts were affected.",
+          "The state government is focusing on swift assessment of damage so that funds for repair are disbursed at the earliest."
+        ],
+        "sent_scr": -0.1,
+        "obj_scr": 0.85,
+        "link": "https://www.business-standard.com/india-news/assam-floods-death-toll-rises-to-82-nearly-193-000-people-still-affected-126073101839_1.html"
+      }
+    ],
+    "genres": [
+      "weather",
+      "environment",
+      "politics",
+      "social issues"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {},
+      "keywords": {
+        "bigrams": [
+          "assam floods",
+          "relief materials",
+          "affected families",
+          "death toll",
+          "urban flooding"
+        ],
+        "trigrams": [
+          "flood affected districts",
+          "relief camps",
+          "flood situation",
+          "immediate assistance",
+          "assam flood response"
+        ]
+      },
+      "sub_topics": []
+    },
+    "feed_analysis": {
+      "card_headline": "Assam flood toll hits 82 as relief push scales up",
+      "card_summary": "Flood deaths in Assam reach 82, with nearly 1.93 lakh people in five districts still affected. The government is distributing relief kits, announcing loan relief, and promising surveys while central and state officials coordinate.",
+      "coverage_pulse": "Coverage is dominated by official relief announcements and rising casualty figures, with little independent ground reporting.",
+      "complete_picture": {
+        "shared_ground": "Death toll has risen to 82, with Sivasagar, Charaideo, Golaghat, Jorhat and Nagaon worst-hit; around 1.93 lakh people remain affected and thousands are in relief camps. Government measures include cash aid, food kits, loan moratoriums and damage surveys.",
+        "where_it_splits": "Framing varies between government-led response stories emphasizing coordination and assistance, and wire-style updates focused on numbers and logistics. Some accounts stress the comprehensiveness of the relief package; others give more space to ongoing flood severity and river warnings.",
+        "why_it_matters": "The floods expose recurring vulnerabilities in Assam's disaster management, and the scale of displacement and crop loss raises questions about long-term rehabilitation, climate resilience, and whether relief commitments will translate into timely recovery."
+      },
+      "narrative_signals": [
+        "Official announcements dominate the news cycle",
+        "Death toll increments are being reported as rolling updates",
+        "Relief package details are being amplified as signs of governmental efficiency",
+        "Affected districts and camp counts are used as key metrics",
+        "Centre-state coordination is being emphasized in political coverage"
+      ],
+      "blindspot_signals": [
+        "Voices of affected residents are largely absent",
+        "No independent assessment of crop loss or infrastructure damage",
+        "No analysis of why floods recur or climate adaptation measures",
+        "Potential gaps between announced aid and actual disbursement are unexplored"
+      ],
+      "reader_takeaway": "Beyond the rising toll, the real test is whether announced relief reaches the nearly two lakh people still affected.",
+      "visual_atoms": [
+        "flooded villages",
+        "relief kits",
+        "death toll graph",
+        "boat rescue",
+        "loan moratorium"
+      ]
+    },
+    "saved_at": "2026-08-01 15:04:13.245000"
+  },
+  {
+    "cls_id": 1785595582470,
+    "art_ids": [
+      "6a6d86ec943ea90155785497",
+      "6a6c52196bb7438f500b16a4",
+      "6a6c53a46bb7438f500b16e0"
+    ],
+    "headline": "Bhiwandi Building Collapse: 9 Dead, Rescue Ops Amid Uneven Media Coverage",
+    "intro": "A deadly Bhiwandi building collapse dominates two reports while another leading daily ignores it, exposing stark editorial choices in the same news cycle.",
+    "qna": [
+      {
+        "que": "What happened in Bhiwandi and what is the latest casualty figure?",
+        "ans": [
+          "A four-storey building, Kohinoor Building, collapsed around 11:30 pm Thursday in Bhiwandi, Maharashtra. Officials confirmed nine deaths, four injuries, and two to three people still feared trapped. The building was declared dangerous and repair work was underway before the collapse.",
+          "Reports the collapse time, the building's 48 rooms, and the multi-agency rescue operation, but does not name any victims or cite survivor accounts.",
+          "Adds more human detail: names five deceased victims, quotes a survivor who was buried in mud, and says 150 people were evacuated while 10-12 remained inside.",
+          "Does not mention the Bhiwandi collapse at all, focusing instead on electoral roll revisions, LPG prices, NEET protests, and other unrelated news."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "business_standard",
+          "indian_express"
+        ]
+      },
+      {
+        "que": "Was the building known to be unsafe before the collapse?",
+        "ans": [
+          "Yes. Civic authorities had declared the building dangerous. Residents heard loud cracking sounds around 9 pm and began evacuating, but the B wing caved in before everyone could get out.",
+          "States that the building had been declared dangerous and that repair work was underway, but gives no resident complaints or details on the nature of the repairs.",
+          "Quotes a survivor alleging that repairs were not done properly despite repeated warnings, directly linking the collapse to negligence. Also notes residents were told to vacate dangerous structures.",
+          "Provides no information on this incident, effectively withholding any coverage of the dangerous building or its victims."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "business_standard",
+          "indian_express"
+        ]
+      },
+      {
+        "que": "How did authorities respond to the emergency?",
+        "ans": [
+          "A multi-agency rescue operation was launched involving NDRF, Thane Disaster Response Force, local fire brigade, dog squad, fire engines, ambulances, and earthmoving machinery. Bhiwandi's mayor appealed to residents to vacate dangerous buildings.",
+          "Emphasises the machinery and equipment deployed, describing the operation as major but does not include the mayor's broader warning or shelter arrangements.",
+          "Adds the mayor's claim that 130-140 most dangerous buildings in Bhiwandi need immediate evacuation and that schools and community halls would serve as shelters.",
+          "Ignores the incident entirely, so there is no mention of the rescue effort, official response, or systemic risk."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "business_standard",
+          "indian_express"
+        ]
+      },
+      {
+        "que": "What broader context do the reports provide about such disasters?",
+        "ans": [
+          "Only one report places the collapse in a wider context of rain-related deaths and unsafe housing; the other treats it largely as a standalone rescue story.",
+          "Notes that at least 27 people have died and 20 were injured in rain-related incidents in Thane district this monsoon, framing the collapse as part of a seasonal safety crisis.",
+          "Lacks this broader statistic or any systemic analysis, focusing only on the immediate collapse and rescue.",
+          "Carries no Bhiwandi coverage, but its otherwise wide-ranging roundup shows editorial prioritisation of political and civic stories from other states."
+        ],
+        "srcs": [
+          "common_answer",
+          "business_standard",
+          "ndtv",
+          "indian_express"
+        ]
+      },
+      {
+        "que": "How do the sources differ in coverage quality, bias, and narrative?",
+        "ans": [
+          "Across the two covering sources, facts are consistent but appear largely drawn from a shared wire feed. Indian Express completely omits the tragedy, making the coverage uneven and raising questions about editorial priorities.",
+          "Gives a concise, wire-style bulletin with emphasis on rescue equipment and casualty count. It avoids survivor emotion and official accountability, presenting the event as a police-and-disaster response story.",
+          "Adds vivid survivor quotes and the mayor's warning, creating a more human-interest and civic-risk narrative. It also links the collapse to monsoon deaths, suggesting a pattern rather than an isolated accident.",
+          "Its silence on this deadly collapse, while covering many other national issues, reveals a possible bias toward political and sports news over urban safety failures in smaller towns."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "business_standard",
+          "indian_express"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "NDTV",
+        "facts": [
+          "A four-storey building, Kohinoor Building, collapsed in Balaji Nagar, Bhiwandi, Maharashtra around 11:30 pm on Thursday.",
+          "The building had been declared dangerous by the civic body and repair work was underway at the time of collapse.",
+          "Nine people were killed; some were feared trapped under the rubble.",
+          "Residents heard loud cracking sounds at around 9 pm and helped evacuate many families; the B wing caved in while some occupants were still leaving.",
+          "The building comprised 48 rooms, with 12 on each floor.",
+          "A multi-agency rescue operation involving NDRF, Thane Disaster Response Force, and local fire brigade was deployed.",
+          "Rescue equipment included a dog squad, four fire engines, two ambulances, and heavy earthmoving machinery."
+        ],
+        "opinions": [],
+        "sent_scr": -0.4,
+        "obj_scr": 0.9,
+        "link": ""
+      },
+      {
+        "name": "Business Standard",
+        "facts": [
+          "The death toll rose to nine on Friday morning; four people were injured and two to three were still trapped under the debris.",
+          "Five of the dead were identified as Shamim Shaikh, Ranjeet Singh, Miraj Rasul Shaikh, Santosh Kumar Pandey, and Shamim Ansari.",
+          "A survivor claimed repairs were not being carried out properly despite repeated warnings from residents.",
+          "Another resident's family was saved by a neighbor's quick decision; they lost all their belongings.",
+          "Bhiwandi Mayor Narayan Chowdhari said at least 130-140 most dangerous buildings in Bhiwandi need to be evacuated immediately.",
+          "The mayor claimed civic authorities pulled nearly 150 people to safety before the collapse, but 10-12 residents remained inside.",
+          "Including this tragedy, at least 27 people have died and 20 were injured in rain-related incidents in Thane district this monsoon."
+        ],
+        "opinions": [
+          "A survivor expressed that the building repairs were done improperly despite residents' warnings, leading to the disaster.",
+          "Mayor Narayan Chowdhari appealed: 'I urge residents to please come out to save their lives.'",
+          "The article implies that civic authorities failed to act on the dangerous status of such buildings, contributing to the loss of life."
+        ],
+        "sent_scr": -0.5,
+        "obj_scr": 0.85,
+        "link": ""
+      }
+    ],
+    "genres": [
+      "politics",
+      "world news",
+      "economy",
+      "sports",
+      "crime",
+      "weather",
+      "geopolitics"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {},
+      "keywords": {
+        "2_gram": [
+          "electoral roll",
+          "lpg cylinder",
+          "neet protests",
+          "strait of hormuz",
+          "commonwealth games"
+        ],
+        "3_gram": [
+          "special intensive revision",
+          "commercial lpg cylinders",
+          "delhi fire services",
+          "kallarkutty dam",
+          "indian crew members"
+        ]
+      },
+      "sub_topics": []
+    },
+    "feed_analysis": {
+      "card_headline": "India's Fragmented News Day: Collapse, Politics, and Sport Share the Stage",
+      "card_summary": "A deadly building collapse in Bhiwandi, political fallout over elections and protests, weather alerts, and sporting wins combine to sketch a nation juggling multiple crises and highlights.",
+      "coverage_pulse": "Coverage is diffuse, with no single story dominating; disaster response and political accountability receive the most sustained attention.",
+      "complete_picture": {
+        "shared_ground": "Across reports, the common thread is a snapshot of a single news cycle: an urban disaster triggers rescue operations, political leaders respond to protests and electoral roll controversies, rain prompts dam releases, and athletes win medals.",
+        "where_it_splits": "The main divergence is emphasis: one segment of coverage is devoted to the Bhiwandi collapse as a preventable tragedy, while another treats political statements and administrative actions as the lead items, and sports coverage is present but separate.",
+        "why_it_matters": "The mix reveals the pressures on Indian institutions—building safety, electoral integrity, diplomatic dilemmas—and the public's expectation of accountability across all of them."
+      },
+      "narrative_signals": [
+        "Rescue efforts emphasise lack of preparedness and dangerous buildings",
+        "Political statements frame youth protests as misguided rather than illegitimate",
+        "Voter deletion statistics fuel partisan debate",
+        "Diplomatic tension with Iran over shipping adds to external pressures",
+        "Weather-related alerts and dam releases show monsoon risks"
+      ],
+      "blindspot_signals": [
+        "Long-term housing and urban safety policy beyond immediate rescue is underexplored",
+        "The human cost of voter deletions and the NEET protests gets less focus than political messaging",
+        "Sporting achievements are reported as isolated results rather than systemic progress",
+        "No analysis of how the LPG price cut affects small business margins beyond a single line"
+      ],
+      "reader_takeaway": "India's news landscape is a jumble of urgent, unconnected threads, each deserving scrutiny beyond the headlines.",
+      "visual_atoms": [
+        "Bhiwandi rubble",
+        "Dam shutters",
+        "Javelin medal",
+        "Electoral roll map",
+        "LPG cylinder"
+      ]
+    },
+    "saved_at": "2026-08-01 15:04:13.245000"
+  },
+  {
+    "cls_id": 1785595582461,
+    "art_ids": [
+      "6a6ae0c766345566c74e253c",
+      "6a6ae4b766345566c74e2606",
+      "6a6adeb866345566c74e2582",
+      "6a6adfa766345566c74e25ba"
+    ],
+    "headline": "US-Iran War Escalates: Fresh Strikes, Splintered Narratives",
+    "intro": "US airstrikes hit Iran after Jordan missile attack; Egypt port blast and oil fears dominate divergent global media coverage.",
+    "qna": [
+      {
+        "que": "What triggered the latest US military strikes on Iran?",
+        "ans": [
+          "Iran's Islamic Revolutionary Guard Corps (IRGC) launched ballistic missiles at Muwaffaq Salti Air Base in Jordan, a key US military hub. The US said all missiles were intercepted. In response, US Central Command (CENTCOM) announced strikes on IRGC targets in Iran.",
+          "Says CENTCOM confirmed strikes began at 8 p.m. ET Wednesday, calling them a response to 'attempted Iranian attacks' on US forces. Also highlights Trump being briefed on the Egypt port blast.",
+          "Reports a 'fresh wave' struck 'dozens' of IRGC targets at 10 p.m. ET on July 29, and adds context that the US and Saudi Arabia had already struck Iran-backed militias in Iraq earlier.",
+          "Frames it as the first US strike on Iran since Trump paused bombing; notes IRGC claimed it targeted an airbase and command center, and asked US officials to stop threatening language.",
+          "Notes the 'lull ended dramatically Tuesday night' with the surprise missile assault, and stresses that oil prices soared as markets feared all-out war."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "indian_express",
+          "ndtv",
+          "yahoo_finance/bloomberg"
+        ]
+      },
+      {
+        "que": "Is this an escalation or a return to war?",
+        "ans": [
+          "The US and Iran had paused strikes at the end of the previous week to allow diplomatic talks. Iran's missile attack on Jordan ended that pause, and Trump vowed to hit Iran 'very hard'.",
+          "Emphasizes the 'pause in fighting was shattered' and that Trump resumed the military campaign five days later; also quotes Trump's crude remark that Iran is 'going to get a beating'.",
+          "Calls it a 'resumption of hostilities' and notes Trump had claimed progress in discussions just before the attack. Focuses on the risk of 'all-out war' and unraveling diplomatic efforts.",
+          "Argues the conflict is 'no longer restrained' to the US-Israel-Iran axis, and has expanded to the wider MENA region, including Egypt and Jordan fronts.",
+          "Frames it as continued escalation and highlights Trump's 'our turn to hit them' rhetoric plus his AI-generated image posts, suggesting psychological warfare."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "yahoo_finance/bloomberg",
+          "indian_express",
+          "india.com"
+        ]
+      },
+      {
+        "que": "What happened at Egypt's Damietta port and why does it matter?",
+        "ans": [
+          "Fires broke out on a US-owned LNG storage vessel, the Energos Winter, and a tugboat at Damietta Port after a suspected drone strike. Egypt confirmed the fire but reported no casualties.",
+          "Says British firm Ambrey identified the ship as US-owned and hit by a UAV; Trump said he was briefed. Calls it a sign the conflict is spilling into 'critical energy hubs'.",
+          "Stresses there was no official confirmation from Egyptian authorities or ship owners, and calls it the first time the conflict reached Egypt. Notes two ships caught fire and warns of wider conflict risk.",
+          "Mentions fires aboard 'two liquefied natural gas vessels' and ties the incident to rising oil prices and threats to shipping routes.",
+          "Omits the Damietta port incident entirely, instead focusing on IRGC naval forces targeting oil tankers near the Strait of Hormuz."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "indian_express",
+          "yahoo_finance/bloomberg",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "How are Saudi Arabia and China being drawn into the conflict?",
+        "ans": [
+          "The US and Saudi Arabia conducted a joint strike on Iran-backed militias in Iraq. Trump also warned China against supplying weapons to Iran, saying Xi Jinping had assured him Beijing would not.",
+          "Gives specifics: the joint US-Saudi strike killed at least 20 fighters and six Iranian advisers. Also notes Houthis blamed Saudi for an attack on Sana Airport, expanding the regional picture.",
+          "Quotes Trump saying Xi told him 'very strongly' he would not sell arms; reports Tehran is reportedly set to receive up to 400 Chinese shoulder-fired missiles within weeks.",
+          "Mentions Saudi Arabia saying it countered drones launched by Iraqi groups targeting its oil facilities, but does not discuss China at all.",
+          "Does not mention Saudi or China; instead emphasizes Iran's own account of targeting oil tankers and warns that 'resistance' will continue."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "india.com",
+          "yahoo_finance/bloomberg",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "How does the coverage differ in tone, bias, and focus?",
+        "ans": [
+          "All four sources rely heavily on CENTCOM statements and Trump's quotes, and all report the Iran missile attack and US retaliation as central facts.",
+          "Most pro-Trump framing: headlines on AI-generated images and 'They know it's coming'; focuses on Trump's warnings and China, with little on casualties or diplomacy.",
+          "Most analytical and neutral: includes UN calls for peace, Pakistan/Qatar mediation, a regional timeline, and explicitly notes missing confirmation on the Egypt drone attack.",
+          "Sensational tone: quotes Trump's crude language, frames coverage around stop/restart of bombing, and gives IRGC's own justification, making it more conflict-driven.",
+          "Financial/geopolitical lens: stresses oil prices, Strait of Hormuz blockade, market fears, and midterm election risks for Trump; describes both sides as 'ready to resort to force'."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "indian_express",
+          "ndtv",
+          "yahoo_finance/bloomberg"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "India News",
+        "facts": [
+          "U.S. Central Command confirmed U.S. forces began launching strikes against Iran at 8 p.m. ET on Wednesday.",
+          "A drone strike hit the U.S.-owned floating storage ship Energos Winter at Egypt's Damietta Port during cargo discharge.",
+          "Egypt's Ministry of Petroleum confirmed a fire broke out involving a storage vessel and a tugboat at Damietta Port, with no casualties.",
+          "Reports indicated Tehran is slated to receive a consignment of up to 400 Chinese-manufactured shoulder-fired missiles within weeks."
+        ],
+        "opinions": [
+          "Trump stated Washington plans to strike Tehran 'very hard' and asserted 'it's our turn to hit them.'",
+          "Trump said he would be 'quite disappointed' if China supplied weapons to Iran, citing Xi Jinping's personal assurance.",
+          "The article suggests the conflict is spilling over into critical energy hubs beyond the Gulf theatre.",
+          "Trump hinted at possible future diplomacy: 'We'll see if we get there with an agreement at some point.'"
+        ],
+        "sent_scr": -0.4,
+        "obj_scr": 0.6,
+        "link": ""
+      },
+      {
+        "name": "Indian Express",
+        "facts": [
+          "CENTCOM said it struck dozens of IRGC targets, including command centers, missile/drone facilities, coastal surveillance and defense sites, and maritime capabilities.",
+          "The U.S. and Saudi Arabia conducted a joint strike on Iran-backed militias in Iraq, killing at least 20 fighters and six Iranian advisers.",
+          "Explosions were reported in Qeshm, Kish, Bandar Abbas, Abadan and Bushehr.",
+          "UN Secretary-General Antonio Guterres urged peace and diplomacy, including mediation by Pakistan, Qatar and other countries.",
+          "The conflict expanded to Egypt for the first time when a drone hit a US-owned gas storage tanker at Damietta port; there was no official confirmation from Egyptian authorities."
+        ],
+        "opinions": [
+          "UN Deputy Spokesperson Farhan Haq said the Secretary-General has been worried that the conflict could widen, which seems to be happening.",
+          "The article asserts 'The war, that began on February 28, is no longer restrained between the US and Israel on one side, and Iran on the other.'",
+          "The latest attacks have engulfed the wider Middle East and North Africa region, according to the article's analysis."
+        ],
+        "sent_scr": -0.3,
+        "obj_scr": 0.8,
+        "link": ""
+      },
+      {
+        "name": "NDTV",
+        "facts": [
+          "These are the first American strikes on Iran since President Donald Trump paused the bombing campaign last week.",
+          "The US military said all Iranian missiles launched at the Jordan base were intercepted.",
+          "IRGC naval forces targeted three oil tankers approaching the Strait of Hormuz on an unapproved route.",
+          "Iran's Islamic Revolutionary Guard Corps claimed it targeted an airbase and command center in Jordan."
+        ],
+        "opinions": [
+          "Trump told Fox News: 'We're going to beat the fing st of them. Well be hitting them hard. They are going to get a beating.'",
+          "Trump said 'Its our turn,' adding that Tehran's acknowledgement of the attack was a mistake.",
+          "The Iranian agency said resistance will continue as long as American threats continue, and asked US to stop threatening language.",
+          "The article notes the pause in fighting was shattered by Iran's missile attack, prompting Trump to resume the campaign five days later."
+        ],
+        "sent_scr": -0.5,
+        "obj_scr": 0.5,
+        "link": ""
+      },
+      {
+        "name": "Yahoo Finance",
+        "facts": [
+          "The US and Iran had paused exchange of strikes at end of last week to further diplomatic talks; lull ended Tuesday night with IRGC surprise assault on US base in Jordan.",
+          "Oil prices soared after the attack and rose again after Trump's threats.",
+          "US and Saudi Arabia struck Iran-backed militias in Iraq after Riyadh said it countered drones targeting its oil facilities.",
+          "The Strait of Hormuz remains largely closed with few ships passing through, causing a sharp increase in gas prices."
+        ],
+        "opinions": [
+          "Trump told reporters: 'We're going to be hitting them very hard because its our turn to hit them. They know whats coming. Theyre asking us not to do it.'",
+          "The article claims Trump has repeatedly asserted US and Iran were close to a deal even as Tehran denied active talks.",
+          "The latest US response threatens to unravel recent efforts to prevent the Middle East conflict from broadening.",
+          "Prolonged conflict poses political risks for Trump, whose Republican Party faces an uphill fight in November midterms."
+        ],
+        "sent_scr": -0.2,
+        "obj_scr": 0.7,
+        "link": ""
+      }
+    ],
+    "genres": [
+      "politics",
+      "world news",
+      "military",
+      "global affairs",
+      "geopolitics"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {
+        "people": [
+          "donald trump",
+          "xi jinping"
+        ],
+        "organizations": [
+          "centcom",
+          "u.s. central command",
+          "ambrey",
+          "al jazeera",
+          "egypt's ministry of petroleum and mineral resources"
+        ],
+        "locations": [
+          "united states",
+          "iran",
+          "middle east",
+          "egypt",
+          "damietta",
+          "tehran",
+          "washington",
+          "beijing",
+          "gulf",
+          "oval office"
+        ]
+      },
+      "keywords": {
+        "2-gram": [
+          "us forces",
+          "iran strikes",
+          "damietta port",
+          "military force",
+          "drone strike"
+        ],
+        "3-gram": [
+          "u.s. central command",
+          "liquefied natural gas",
+          "middle east conflict",
+          "energy hubs",
+          "military strikes"
+        ]
+      },
+      "sub_topics": [
+        "us-iran tensions",
+        "military strikes",
+        "energy infrastructure security",
+        "diplomacy and negotiations",
+        "china-iran arms supply"
+      ]
+    },
+    "feed_analysis": {
+      "card_headline": "US Strikes Iran Again as Mideast Conflict Expands to Egypt",
+      "card_summary": "The US launched fresh strikes on Iran after Tehran attacked a Jordan base, breaking a pause. A drone hit US-owned LNG ships in Egypt, widening the war's reach.",
+      "coverage_pulse": "Coverage is focused on military escalation and the unraveling of a brief diplomatic pause.",
+      "complete_picture": {
+        "shared_ground": "The US resumed military action against Iran following an Iranian ballistic missile attack on a US base in Jordan, with both sides returning to open conflict after days of relative calm.",
+        "where_it_splits": "Accounts differ on the timing and scope of US strikes, with some emphasizing CENTCOM statements and others highlighting the expanding geography: US-Saudi strikes in Iraq, Houthi threats in the Red Sea, and a drone attack on US-linked tankers at Egypt's Damietta port.",
+        "why_it_matters": "The conflict is no longer contained to US-Iran or Gulf theaters; it is reaching critical energy infrastructure and broader Middle East supply routes, threatening global oil markets and regional stability."
+      },
+      "narrative_signals": [
+        "Trump frames the strikes as retaliation and warns Iran with aggressive language, while also leaving the door open for future diplomacy.",
+        "The brief pause in fighting ended abruptly, with both sides blaming the other for restarting hostilities.",
+        "The Egyptian port attack is portrayed as a watershed moment, showing the war spilling into new fronts.",
+        "Oil prices react sharply to each escalation, signaling market anxiety over energy chokepoints.",
+        "Saudi Arabia's joint strike with the US indicates a widening coalition against Iran-backed militias."
+      ],
+      "blindspot_signals": [
+        "Little attention is given to civilian casualties or humanitarian impact inside Iran from the US strikes.",
+        "The potential role of Chinese weapons supplies to Iran is mentioned but not deeply explored.",
+        "Coverage focuses on military moves while largely omitting diplomatic efforts by UN, Pakistan, Qatar, and others in the same narrative.",
+        "The legality and long-term strategic consequences of hitting targets inside Iran are not critically examined."
+      ],
+      "reader_takeaway": "The US-Iran conflict is escalating and broadening, with fragile diplomacy now on hold as military action spreads across the Middle East.",
+      "visual_atoms": [
+        "Strike maps",
+        "Oil tanker fire",
+        "Trump briefing",
+        "Strait of Hormuz",
+        "Iron Dome intercepts"
+      ]
+    },
+    "saved_at": "2026-08-01 15:04:13.245000"
+  },
+  {
+    "cls_id": 1785595582459,
+    "art_ids": [
+      "6a6c50d66bb7438f500b1649",
+      "6a6ae16366345566c74e256b",
+      "6a6ade8866345566c74e2577",
+      "6a6d8a57943ea90155785515"
+    ],
+    "headline": "Monsoon Mayhem: IMD Alerts and Floods Across India",
+    "intro": "India's monsoon unleashes heavy rain, floods and IMD alerts from Mumbai to Assam, with varying media priorities.",
+    "qna": [
+      {
+        "que": "What are the key IMD weather alerts across Maharashtra and nearby regions?",
+        "ans": [
+          "The IMD issued a yellow alert for Mumbai and an orange alert for Raigad and Palghar, forecasting heavy rain, thunderstorms, lightning and gusty winds up to 60-70 kmph.",
+          "Places Mumbai under yellow alert; Thane and Raigad under orange alert for Thursday and Friday; Palghar moderate then heavier on Friday.",
+          "Mumbai and Thane to see thunderstorms with a yellow alert for Mumbai; fresh orange for Palghar on Friday; orange alerts also for Raigad, Dhule, Nashik, Nagpur, Amravati and Pune ghats.",
+          "Does not cover Maharashtra; focuses entirely on orange alerts in Northeast.",
+          "Lists Maharashtra among regions with heavy to very heavy rainfall, but omits district-level alert details."
+        ],
+        "srcs": [
+          "common_answer",
+          "india_news",
+          "indian_express",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "What is causing the intensified monsoon activity?",
+        "ans": [
+          "A deep depression over Odisha is moving toward southeast Madhya Pradesh and Chhattisgarh, pulling in strong Arabian Sea winds and moisture that enhance monsoon conditions.",
+          "Provides the only detailed explanation, quoting meteorologist Mahesh Palawat on the depression and moisture incursion; links it to the surge on the west coast.",
+          "Does not explain the weather system; simply reports IMD forecasts and alerts.",
+          "Attributes Assam flooding to exceptionally heavy local rainfall in Nagaland (493% departure in Mokokchung), not the depression.",
+          "Mentions squally winds over seas but does not discuss the root meteorological cause."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "india_news",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "How severe is the flood situation in Assam and the Northeast?",
+        "ans": [
+          "Assam is reeling from floods with more than 78 deaths, over 3 lakh people affected, 550 villages submerged, and fresh orange alerts for more rain.",
+          "Reports death toll at 78, floodwaters receding but fresh spell feared; provides detailed rainfall departure data and names affected districts.",
+          "Mentions only the forecast of heavy rainfall and risks of flooding, flash floods and landslides; no current death or population figures.",
+          "Does not cover the Assam floods at all.",
+          "In a related section link, notes death toll rises to 82 and nearly 193,000 still affected, but the main article does not include these details."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "india_news",
+          "indian_express",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "How does the weather forecast affect different regions of India?",
+        "ans": [
+          "The monsoon is sweeping across India with heavy rain expected in Gujarat, Kerala, Maharashtra, Northeast, and other states, accompanied by thunderstorms and squally sea conditions.",
+          "Provides the widest national outlook: Delhi light rain, heavy to very heavy rainfall in Gujarat, Kerala, Karnataka, Konkan, Maharashtra, etc., plus squally winds over the Arabian Sea and Bay of Bengal.",
+          "Focuses on Mumbai and Maharashtra's coastal and inland districts, including Palghar, Raigad, Dhule, Nashik, Nagpur, Amravati and Pune ghats.",
+          "Highlights Maharashtra and Northeast with district-specific alerts, but gives no comprehensive national perspective.",
+          "Concentrates on Northeast flood risk, ignoring other regions' weather."
+        ],
+        "srcs": [
+          "common_answer",
+          "business_standard",
+          "indian_express",
+          "india_news",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "How do the news outlets differ in coverage focus and approach?",
+        "ans": [
+          "All outlets rely on IMD data, but their geographic priorities and depth of analysis vary significantly.",
+          "Advisory style with bullet updates, prioritizing Mumbai and Maharashtra; also covers Northeast but without human impact details.",
+          "Analytical and meteorological, gives causes, quotes an expert, and includes rainfall statistics; focuses on Mumbai but includes wider Maharashtra alerts.",
+          "Humanitarian angle, emphasizes flood deaths and affected populations, uses IMD alerts to highlight disaster risk; regional focus on Northeast.",
+          "National roundup, includes Delhi weather, AQI, and details for many states; treats monsoon as a nationwide news event, not a local crisis."
+        ],
+        "srcs": [
+          "common_answer",
+          "india_news",
+          "indian_express",
+          "ndtv",
+          "business_standard"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "India.com",
+        "facts": [
+          "IMD issued a yellow alert for Mumbai on Thursday, forecasting heavy rainfall at isolated places, lightning, and wind speeds reaching 50-60 kmph.",
+          "Thane and Raigad are on orange alert for Thursday and Friday, with heavy to very heavy rainfall, lightning, and winds gusting up to 70 kmph.",
+          "IMD forecast heavy to very heavy rainfall across Assam, Arunachal Pradesh, and Nagaland between July 30 and August 1.",
+          "Orange alerts were issued for Tinsukia district in Assam and Mon, Mokokchung, and Wokha districts of Nagaland."
+        ],
+        "opinions": [
+          "The article describes Thane and Raigad conditions as 'harsher' compared to Mumbai.",
+          "It states the weather 'raises concerns over flooding, flash floods, waterlogging and landslides in vulnerable areas'.",
+          "The forecast that rainfall activity will slow down by the weekend is presented as expected easing."
+        ],
+        "sent_scr": -0.2,
+        "obj_scr": 0.75,
+        "link": ""
+      },
+      {
+        "name": "The Indian Express",
+        "facts": [
+          "IMD upgraded Mumbai's weather warning to yellow for July 30, with thunderstorms, lightning, heavy rainfall, and gusty winds at 50-60 kmph at isolated places.",
+          "A fresh orange warning was issued for Palghar district on July 31, while orange alerts were sounded for Raigad, Dhule, Nashik, Nagpur, Amravati, and the ghats of Pune on Thursday.",
+          "Between July 28 and 29 morning, Colaba observatory recorded 4.8 mm rain and Santacruz 0.1 mm, after eastern suburbs received an average 8 mm rainfall.",
+          "Mumbai suburbs received 1,490 mm in July, significantly higher than the city's actual July rain quota."
+        ],
+        "opinions": [
+          "Meteorologist Mahesh Palawat attributes the surge to a deep depression system over Odisha, saying 'chances of rain increase as there is an incursion of moisture'.",
+          "The article asserts that 'monsoon surge is likely upon the west coast over the next couple of days' based on expert input.",
+          "It analyzes that 'the current lull in rainfall over Mumbai has been driven by the absence of active monsoon systems'."
+        ],
+        "sent_scr": -0.1,
+        "obj_scr": 0.8,
+        "link": ""
+      },
+      {
+        "name": "NDTV",
+        "facts": [
+          "The death toll in Assam floods has risen to 78, with three more bodies recovered in the last 24 hours.",
+          "Seven districts in Assam remain flood-affected, with more than three lakh people impacted and over 550 villages submerged.",
+          "IMD issued an orange alert for the next three days for heavy to very heavy rainfall across parts of Assam, Arunachal Pradesh, and Nagaland.",
+          "Mokokchung recorded a 493% departure from normal rainfall on July 19; Wokha recorded 108% and Mon 45% departure.",
+          "Orange alerts were also issued for East Siang, Lohit, Namsai, Longding, Papumpare, Lower Subansiri, and Lower Dibang Valley in Arunachal Pradesh."
+        ],
+        "opinions": [
+          "The article expresses 'fears of a fresh spell of flooding' due to the new rainfall forecast.",
+          "It notes that IMD 'cautioned that the fresh spell of rain could aggravate waterlogging, flooding, flash floods, localised landslides and disrupt vehicular movement'.",
+          "Disaster management authorities have 'urged people living in flood-prone and landslide-prone areas to remain vigilant'."
+        ],
+        "sent_scr": -0.4,
+        "obj_scr": 0.7,
+        "link": ""
+      },
+      {
+        "name": "Business Standard",
+        "facts": [
+          "Delhi recorded a minimum temperature of 27.9 degrees Celsius, with light rain forecast and maximum likely to settle around 34 degrees Celsius.",
+          "The city's air quality remained satisfactory, with an AQI of 76 recorded at 9 am.",
+          "IMD forecast heavy to very heavy rainfall with isolated extremely heavy rainfall over Gujarat and Kerala, and heavy rainfall over many other states.",
+          "Thunderstorms with lightning and gusty winds reaching 50-60 kmph are very likely over North Interior Karnataka, with similar alerts elsewhere.",
+          "Squally weather warnings were issued over the Arabian Sea and Bay of Bengal, with winds of 50-60 kmph gusting to 70 kmph along the south Gujarat and north Maharashtra coasts."
+        ],
+        "opinions": [
+          "The article describes Delhi's weather as 'pleasant weather' for Saturday.",
+          "It characterizes the rainfall as 'heavy rain likely over western coast' based on IMD forecast.",
+          "The mention of 'light rain likely in Delhi' and 'heavy rainfall warning in Gujarat, Kerala' in the headline frames the national capital's conditions as relatively benign."
+        ],
+        "sent_scr": 0.0,
+        "obj_scr": 0.85,
+        "link": ""
+      }
+    ],
+    "genres": [
+      "weather",
+      "environment",
+      "climate change"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {},
+      "keywords": {
+        "2-gram": [
+          "heavy rainfall",
+          "orange alert",
+          "yellow alert",
+          "weather alerts",
+          "water logging"
+        ],
+        "3-gram": [
+          "heavy to very heavy",
+          "very heavy rainfall",
+          "strong gusty winds",
+          "severe thunderstorms",
+          "isolated places lightning"
+        ]
+      },
+      "sub_topics": []
+    },
+    "feed_analysis": {
+      "card_headline": "Monsoon Surge: Heavy Rain Alerts Spread, Assam Flood Toll Rises",
+      "card_summary": "The IMD issued orange and yellow alerts across Maharashtra and the Northeast as heavy monsoon rains triggered flooding. Assam's death toll reached 78, with over 550 villages submerged and more rain forecast.",
+      "coverage_pulse": "Coverage is alert-driven, pairing city-level rain forecasts with compounding flood misery in Assam.",
+      "complete_picture": {
+        "shared_ground": "A deep depression over Odisha is intensifying monsoon currents, causing widespread heavy rainfall from the west coast to the Northeast. IMD alerts range from yellow to orange, with Mumbai bracing for thunderstorms and Assam facing rising flood deaths and submerged villages.",
+        "where_it_splits": "Western coverage focuses on daily alerts, city impact, and when rain will ease; northeastern coverage emphasizes flood casualties, district-level warnings, and the risk of fresh inundation. The split is between urban inconvenience and rural disaster.",
+        "why_it_matters": "The monsoon is the region's lifeline but also its hazard. These alerts underscore the growing volatility of rainfall patterns and the uneven capacity to absorb extreme weather, from Mumbai's strained drainage to Assam's vulnerable river basins."
+      },
+      "narrative_signals": [
+        "IMD's color-coded alerts are the main organizing framework across all coverage",
+        "Mumbai's yellow alert is contrasted with orange alerts in adjacent Thane, Raigad, and Palghar",
+        "Assam's death toll and submerged villages anchor the human-scale impact",
+        "Forecasters tie the surge to a deep depression over Odisha, lending a meteorological explanation",
+        "A weekend easing is predicted for the west, but the Northeast remains at elevated risk"
+      ],
+      "blindspot_signals": [
+        "Climate change as a driver of extreme rainfall intensity goes largely unmentioned",
+        "Urban infrastructure failures and drainage capacity in Mumbai receive little scrutiny",
+        "Recovery and relief efforts for Assam's existing flood victims are overshadowed by fresh warnings",
+        "The gap between alert issuance and on-the-ground preparedness for vulnerable communities is not explored"
+      ],
+      "reader_takeaway": "One weather system is hitting India unevenly: expect urban disruption in the west, but a more serious humanitarian situation in the Northeast.",
+      "visual_atoms": [
+        "IMD alerts",
+        "Monsoon surge",
+        "Assam floods",
+        "Mumbai rain",
+        "Orange warning"
+      ]
+    },
+    "saved_at": "2026-08-01 15:04:13.245000"
+  },
+  {
+    "cls_id": 1785565581355,
+    "art_ids": [
+      "6a6ae0b666345566c74e2537",
+      "6a6c52246bb7438f500b16a7",
+      "6a6d8a5c943ea90155785516"
+    ],
+    "headline": "Assam Floods: Relief Efforts, Rising Toll, and Media Narratives",
+    "intro": "The Assam floods have caused widespread devastation, with death toll rising and government relief efforts under scrutiny across varying media reports.",
+    "qna": [
+      {
+        "que": "What is the current death toll and extent of affectation in Assam floods?",
+        "ans": [
+          "All articles report significant casualties and destruction, but numbers vary due to reporting dates. The floods have affected thousands in Assam, with successive updates revealing higher casualties. Government and officials provide data.",
+          "Reports 78 deaths, 7 districts, 551 villages, 21,500 hectares crop area, around 3 lakh people affected as of July 29.",
+          "Reports death toll risen to 82, with 1.92 lakh people affected across five districts as of Aug 1; Charaideo worst-hit with 77,456 people.",
+          "Does not mention specific toll or affected numbers, focusing instead on the relief package announcement."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "business_standard",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "What relief measures have been announced by the government?",
+        "ans": [
+          "The government, led by CM Himanta Biswa Sarma, has announced financial assistance, food supplies, and loan relief measures. Affected families receive immediate aid and essential kits.",
+          "Emphasizes Rs 15,000 immediate assistance per family, 30 trucks of relief materials, and praises CM's 'effective measures' and PM Modi's central coordination.",
+          "Details a comprehensive package: 2.37 lakh relief kits, free textbooks, duplicate certificates, Rs 1.5 lakh per damaged Namghar, six-month loan moratorium, additional Rs 10,000 loans, and a damage survey from August 7.",
+          "Notes government's decision to meet insurance companies and NBFCs for expeditious claims and moratorium; also approved Rs 41.67 crore PM Surya Ghar subsidy for 9,289 beneficiaries."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "Which districts are worst affected and how has the flood situation evolved?",
+        "ans": [
+          "The floods have affected multiple districts in Assam, with Sivasagar and Charaideo repeatedly mentioned as worst-hit. Rivers like Dikhow and Dhansiri are in severe flood. The situation is improving as water recedes.",
+          "Lists affected districts as Sivasagar, Charaideo, Golaghat, Jorhat, Nagaon, Biswanath, and Kamrup Metro, with urban flooding in Guwahati localities.",
+          "Focuses on Sivasagar and Charaideo, mentioning relief kits dispatched to these districts, and students' education disrupted there.",
+          "Reports that as of Aug 1, only five districts continue to reel under flood: Sivasagar, Golaghat, Jorhat, Nagaon, Charaideo; Charaideo worst-hit. It also notes improvement since Thursday when eight districts were affected."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "Who is being credited for the flood response - central or state government?",
+        "ans": [
+          "Both the state government under CM Sarma and the central government under PM Modi are involved in flood relief. Their collaboration is highlighted in official statements. Relief operations include NDRF, SDRF, and state agencies.",
+          "Explicitly states PM Modi met Assam MPs and reviewed flood situation; says Centre is working closely with Assam government. Also highlights CM's efforts. Frames as joint effort with PM's support.",
+          "Entirely focuses on CM Sarma's announcements and his live broadcast. No mention of central government, PM Modi, or NDRF/SDRF. Puts state government at forefront.",
+          "Mentions CM Sarma's decisions and state cabinet, but also notes PM Surya Ghar subsidy (central scheme) and PM Modi's earlier PM Modi? Actually the article doesn't mention PM Modi. It is more neutral regarding credit, focusing on administrative measures."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "How do the three sources differ in their coverage, bias, and narrative of the Assam floods?",
+        "ans": [
+          "The articles cover official statements, relief measures, and statistics, but each has a distinct editorial angle. India.com appears government-aligned, NDTV is policy-focused, and Business Standard is data-driven.",
+          "Has a pro-government narrative, praising CM Sarma's 'effective measures' and highlighting PM Modi's involvement. It gives minimal independent analysis or criticism.",
+          "Provides detailed policy reporting but largely reflects the CM's announcements without independent verification. It omits death toll and affected numbers, possibly to focus on positive government response.",
+          "Uses a syndicated feed with a factual tone, emphasizing updated numbers and government initiatives like insurance meetings. It is less emotive and more administrative, but lacks ground-level human impact stories."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "ndtv",
+          "business_standard"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "India.com",
+        "facts": [
+          "Flood-related deaths in Assam reached 78, with three recent deaths reported: two in Sivasagar and one in Golaghat.",
+          "Seven districts were inundated: Sivasagar, Charaideo, Golaghat, Jorhat, Nagaon, Biswanath and Kamrup Metro; around 3 lakh people and 551 villages were affected.",
+          "Over 21,500 hectares of crop area were damaged, and Kamrup Metro experienced urban flooding in localities such as Padumbari, Boragaon, Zoo Road and Rukminigaon.",
+          "Nearly 3,000 additional people were accommodated in 215 relief camps in 48 hours, and 30 trucks carrying relief materials were flagged off by Assam ministers and AGP leaders."
+        ],
+        "opinions": [
+          "Assam Minister Atul Bora said the government, led by Himanta Biswa Sarma, has implemented effective measures despite the havoc and loss of lives.",
+          "CM Himanta Biswa Sarma said the people and government are working shoulder to shoulder to help every flood-affected family rebuild their lives.",
+          "Sarma stated the Rs 15,000 immediate assistance will provide timely support for cleaning homes and meeting essential needs.",
+          "The article implies that ongoing relief distribution is sufficient and will continue."
+        ],
+        "sent_scr": -0.1,
+        "obj_scr": 0.55,
+        "link": ""
+      },
+      {
+        "name": "NDTV",
+        "facts": [
+          "CM Himanta Biswa Sarma announced a comprehensive relief package via a live social media broadcast.",
+          "A total of 2,37,513 essential supplies kits were dispatched to Sivasagar and 63,000 kits to Charaideo, each containing rice, pulses, edible oil and basic items.",
+          "Students in affected areas will receive free textbooks and duplicate academic documents without fees; a Rs 1.5 lakh one-time grant was announced for each flood-damaged Namghar in Sivasagar and Charaideo.",
+          "A six-month moratorium on government loans was announced for farmers, self-help groups, and those in animal husbandry, fisheries and agriculture; an additional Rs 10,000 loan without fresh application or collateral was offered to existing borrowers."
+        ],
+        "opinions": [
+          "CM Sarma said the government's immediate priority is to stand beside families who have suffered losses and ensure they receive support to return to normal life.",
+          "CM Sarma stated: 'Our effort is to ensure that no flood-affected family is left without assistance.'",
+          "CM Sarma said the government will extend every possible support for rehabilitation.",
+          "The article characterises the relief package as 'comprehensive' and focuses on positive official announcements."
+        ],
+        "sent_scr": 0.3,
+        "obj_scr": 0.45,
+        "link": ""
+      },
+      {
+        "name": "Business Standard",
+        "facts": [
+          "The Assam flood death toll rose to 82, with two additional deaths in Sivasagar and Charaideo districts.",
+          "Nearly 1,92,799 people remained affected across five districts: Sivasagar, Golaghat, Jorhat, Nagaon and Charaideo; Charaideo was worst-hit with 77,456 people affected.",
+          "Dikhow and Dhansiri rivers were in severe flood at Sivasagar and Numaligarh; around 13,000 people were sheltered in 54 relief camps and 26 distribution centres catered to 5,384 people.",
+          "The state cabinet decided to meet insurance companies and NBFCs on August 5 to expedite claim settlement and loan moratoriums; the SLBC already approved a six-month repayment moratorium for four worst-hit districts."
+        ],
+        "opinions": [
+          "Officials said the flood situation improved since Thursday, when more than two lakh people in eight districts were affected.",
+          "Authorities urged people to stay away from the Dikhow and Dhansiri rivers due to severe flood conditions.",
+          "The state government said it is focusing on swift damage assessment so that repair funds are disbursed at the earliest.",
+          "CM Sarma said the government stands firmly with every affected family, citing approval of Rs 41.67 crore under PM Surya Ghar pending state subsidy for 9,289 beneficiaries."
+        ],
+        "sent_scr": -0.35,
+        "obj_scr": 0.8,
+        "link": ""
+      }
+    ],
+    "genres": [
+      "weather",
+      "politics",
+      "environment",
+      "social issues"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {},
+      "keywords": {
+        "2_gram": [
+          "assam floods",
+          "flood situation",
+          "relief materials",
+          "affected districts",
+          "relief camps"
+        ],
+        "3_gram": [
+          "flood related deaths",
+          "assam gana parishad",
+          "government of assam",
+          "affected families",
+          "relief vehicles carried"
+        ]
+      },
+      "sub_topics": []
+    },
+    "feed_analysis": {
+      "card_headline": "Assam Floods: Death Toll Climbs to 82 as Relief Package Expands",
+      "card_summary": "Assam's flood crisis deepens with 82 deaths, but the state is shifting to recovery: a comprehensive relief package, loan relief, and education support are rolling out as waters recede in worst-hit districts.",
+      "coverage_pulse": "Coverage is pivoting from disaster metrics to relief rollout, spotlighting government aid and central-state coordination.",
+      "complete_picture": {
+        "shared_ground": "The floods have killed at least 82 people and displaced hundreds of thousands across five districts; the state has announced a multi-pronged relief package including cash, food kits, loan moratoriums, and school support.",
+        "where_it_splits": "Accounts differ on the phase: some emphasize the ongoing human toll and rescue operations, while others focus on the government's rehabilitation package and economic recovery measures. The death toll figure itself shifted from 78 to 82 as reporting updated.",
+        "why_it_matters": "This reflects a classic disaster arc where immediate loss competes with recovery policy for attention; the adequacy of compensation and loan relief will shape long-term public trust."
+      },
+      "narrative_signals": [
+        "Government-led relief package dominates, with cash and loan moratoriums.",
+        "Death toll revised upward while affected population shrinks.",
+        "Political optics strong: CM's live broadcast and PM's review meeting.",
+        "Local infrastructure damage and education disruption get prominence.",
+        "Financial sector involvement: insurance claims and NBFC moratoriums."
+      ],
+      "blindspot_signals": [
+        "Long-term flood prevention and climate adaptation are barely mentioned.",
+        "On-the-ground conditions in relief camps and public health receive little coverage.",
+        "The voices of affected families are largely absent; official statements lead.",
+        "Environmental and agricultural loss is quantified but not deeply investigated."
+      ],
+      "reader_takeaway": "The Assam floods are moving from crisis to recovery, but whether the announced aid reaches those in need will be the next test.",
+      "visual_atoms": [
+        "flooded villages",
+        "relief kits",
+        "loan moratorium",
+        "death toll chart",
+        "CM live broadcast"
+      ]
+    },
+    "saved_at": "2026-08-01 06:37:44.287000"
+  },
+  {
+    "cls_id": 1785565581353,
+    "art_ids": [
+      "6a6c56186bb7438f500b1706",
+      "6a6c52196bb7438f500b16a4",
+      "6a6c53a46bb7438f500b16e0"
+    ],
+    "headline": "Bhiwandi Collapse Kills 9: The Monsoon Tragedy That Was Predicted",
+    "intro": "A four-storey building collapse in Bhiwandi has killed nine people, exposing failures in urban safety, illegal construction, and redevelopment delays.",
+    "qna": [
+      {
+        "que": "What exactly happened at the Kohinoor Building in Bhiwandi?",
+        "ans": [
+          "Around 11:30 pm on Thursday, the B wing of the four-storey Kohinoor Building in Balaji Nagar collapsed. The building had 48 rooms, 12 per floor, and had been declared dangerous. Nine people were killed, four injured, and two to three were initially feared trapped. Rescue teams from NDRF, Thane Disaster Response Force and local fire brigade launched a multi-agency operation.",
+          "Presents it primarily as a breaking-news event, noting the collapse happened while repair work was underway and that some people were feared trapped, but gives no wider context about Bhiwandi's building crisis.",
+          "Adds emotional survivor interviews, says five of the nine dead were identified, and quotes officials saying two to three victims were still under debris; also relays mayor's claim that nearly 150 were evacuated and 10-12 residents remained inside.",
+          "Treats the collapse as another predictable instance in a recurring pattern, immediately linking it to 1,790 dangerous buildings in Bhiwandi and past collapses such as the 2020 Jilani Building tragedy."
+        ],
+        "srcs": [
+          "common_answer",
+          "ndtv",
+          "business_standard",
+          "indian_express"
+        ]
+      },
+      {
+        "que": "Why did the building collapse?",
+        "ans": [
+          "The building had been declared dangerous, and repair work was underway when it caved in. Residents said they heard loud cracking sounds around 9 pm and began evacuating; many believe improper repair methods caused the disaster.",
+          "Quotes a survivor explicitly saying: 'We warned them not to do the repairs in that manner, but they continued, leading to this disaster' – directly blaming faulty repair work for the collapse.",
+          "Does not focus on the immediate repair trigger; instead blames decades of unplanned growth, weak enforcement, illegal construction and delayed redevelopment as root causes, with the Bombay High Court describing civic inaction as 'lawlessness'.",
+          "Mentions repair work only in passing, offering no analysis of whether faulty repairs or systemic negligence caused the collapse."
+        ],
+        "srcs": [
+          "common_answer",
+          "business_standard",
+          "indian_express",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "How serious is Bhiwandi's dangerous-building problem compared with Mumbai?",
+        "ans": [
+          "Bhiwandi's civic body identified 1,790 dangerous buildings, including 227 in the C1 category needing immediate evacuation and demolition. By comparison, Mumbai identified only 174 C1 buildings, even though Mumbai is far larger in area and population.",
+          "Provides the full statistical comparison and argues Bhiwandi's problem 'far exceeds' Mumbai's, attributing it to the town's growth as a powerloom and warehousing hub with poor planning and difficult tenancy laws.",
+          "Quotes mayor Narayan Chowdhari saying 'at least 130 to 140 most dangerous buildings' need evacuation at once, and offers shelters, but does not mention the larger 1,790 figure or Mumbai comparison.",
+          "Omits the citywide statistics entirely, narrowing the story to the single collapse and rescue effort."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "business_standard",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "Why are residents still living in buildings that have been declared dangerous?",
+        "ans": [
+          "Evacuation orders have repeatedly been issued, especially every monsoon, but many families continue occupying unsafe structures because they have no alternative housing; redevelopment is stalled by disputes and litigation.",
+          "Explains structural reasons: the 'pagdi' tenancy system, ownership disputes, landlord-tenant disagreements and slow court cases; also says the Bombay High Court criticised the civic body for being in 'deep slumber' and failing to lift status quo orders against illegal structures.",
+          "Emphasizes the immediate humanitarian angle: mayor urged citizens to vacate and offered schools and community halls as shelter camps, but the report does not investigate why residents had nowhere else to go.",
+          "Reports that locals helped evacuate families but does not address the larger problem of dangerous occupied buildings or government responsibility."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "business_standard",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "How did the coverage differ across the three sources, and what do these differences reveal?",
+        "ans": [
+          "All three outlets reported the death toll, the declared-dangerous status of the building, and the rescue operation, but their framing and depth varied sharply.",
+          "Offers the most analytical and critical coverage: it names systemic failures, uses civic data, quotes the High Court, and connects the collapse to past disasters, framing it as an avoidable governance failure.",
+          "Carries a PTI syndicated feed with additional human-interest interviews; it is more dramatic and sympathetic, but notes that only the headline and picture were reworked by its staff, meaning the analysis is limited and largely official/survivor-led.",
+          "Provides straightforward breaking-news coverage focused on rescue logistics; it lacks investigative context, making the event appear isolated rather than part of Bhiwandi's recurring monsoon collapse crisis."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "business_standard",
+          "ndtv"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "indian_express",
+        "facts": [
+          "At least eight people were killed after a four-storey building collapsed in Bhiwandi late Thursday night.",
+          "Ahead of the 2026 monsoon, the Bhiwandi Nizampur City Municipal Corporation identified 1,790 dangerous buildings, including 227 C1 structures requiring immediate evacuation/demolition, versus 174 C1 buildings in Mumbai.",
+          "Redevelopment in Bhiwandi is slowed by ownership disputes, the pagdi tenancy system, litigation, and landlord-tenant disagreements.",
+          "The Bombay High Court criticised the Bhiwandi-Nizampur City Municipal Corporation for 'lawlessness' and being in a 'state of deep slumber' over illegal structures."
+        ],
+        "opinions": [
+          "Building collapses have become a recurring feature every monsoon in Bhiwandi.",
+          "The scale of Bhiwandi's dangerous-building problem far exceeds that of Mumbai despite its smaller population and area.",
+          "Decades of unplanned growth and illegal construction have worsened the structural safety crisis.",
+          "Evacuation notices are ineffective because residents have no alternative accommodation and continue living in unsafe buildings."
+        ],
+        "sent_scr": -0.6,
+        "obj_scr": 0.7,
+        "link": "https://indianexpress.com/article/cities/mumbai/bhiwandi-building-collapse-crisis-refuses-to-end-10811608/"
+      },
+      {
+        "name": "ndtv",
+        "facts": [
+          "Nine people were killed in the collapse of the four-storey Kohinoor Building in Balaji Nagar, Bhiwandi, with some people feared trapped.",
+          "The collapse happened around 11.30 pm on Thursday while repair work was underway on the premises.",
+          "The building comprised 48 rooms, 12 on each floor, and had been declared dangerous by the civic body.",
+          "Around 9 pm, residents heard loud cracking sounds; locals helped evacuate many families, but the B wing caved in while some occupants were still leaving.",
+          "A multi-agency rescue operation involving NDRF, Thane Disaster Response Force, local fire brigade, a dog squad, four fire engines, two ambulances, and heavy earthmoving machinery was underway."
+        ],
+        "opinions": [
+          "The incident was described as a tragedy that struck during repair work.",
+          "Officials feared that some people remained trapped under the rubble.",
+          "Residents' immediate response in evacuating families may have reduced the number of casualties."
+        ],
+        "sent_scr": -0.5,
+        "obj_scr": 0.85,
+        "link": "https://www.ndtv.com/india-news/bhiwandi-building-collapse-3-killed-as-four-storey-building-collapses-near-mumbai-many-still-trapped-11846291"
+      },
+      {
+        "name": "business_standard",
+        "facts": [
+          "The death toll rose to nine, with four injured and two to three people believed trapped, according to Bhiwandi Sub-Divisional Officer Amit Sanap.",
+          "The Kohinoor Building in Balaji Nagar had been declared dangerous and repair work was under way when a portion collapsed at 11.30 pm on Thursday.",
+          "Officials identified five of the dead as Shamim Shaikh, Ranjeet Singh, Miraj Rasul Shaikh, Santosh Kumar Pandey, and Shamim Ansari.",
+          "Bhiwandi Mayor Narayan Chowdhari said 130-140 most dangerous buildings in Bhiwandi need immediate evacuation, and civic authorities pulled nearly 150 people to safety before the collapse; 10-12 residents remained inside.",
+          "At least 27 people have died and 20 were injured in rain-related incidents in Thane district this monsoon, including this tragedy."
+        ],
+        "opinions": [
+          "A survivor alleged that repairs were not being done properly despite residents' warnings: 'We warned them not to do the repairs in that manner, but they continued, leading to this disaster.'",
+          "A resident whose family barely escaped said the split-second decision to move into a neighbour's house saved their lives, but they lost all their belongings.",
+          "Mayor Narayan Chowdhari urged residents to vacate dangerous structures immediately, offering schools and public community halls as shelter camps."
+        ],
+        "sent_scr": -0.8,
+        "obj_scr": 0.65,
+        "link": "https://www.business-standard.com/india-news/bhiwandi-building-collapse-6-killed-several-feared-trapped-under-rubble-126073100241_1.html"
+      }
+    ],
+    "genres": [
+      {
+        "genre": "social issues",
+        "sub_topics": [
+          "housing crisis",
+          "displacement of residents",
+          "unsafe living conditions"
+        ]
+      },
+      {
+        "genre": "infrastructure",
+        "sub_topics": [
+          "urban planning failure",
+          "building maintenance",
+          "redevelopment delays"
+        ]
+      },
+      {
+        "genre": "legal issues",
+        "sub_topics": [
+          "illegal construction",
+          "court intervention",
+          "litigation"
+        ]
+      },
+      {
+        "genre": "politics",
+        "sub_topics": [
+          "municipal governance",
+          "civic body accountability",
+          "political response"
+        ]
+      },
+      {
+        "genre": "crime",
+        "sub_topics": [
+          "negligence leading to deaths",
+          "law enforcement"
+        ]
+      }
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {},
+      "keywords": {
+        "bigrams": [
+          "building collapse",
+          "illegal construction",
+          "civic body",
+          "dangerous buildings",
+          "building stock"
+        ],
+        "trigrams": [
+          "bhiwandi nizampur city",
+          "bombay high court",
+          "powerloom town",
+          "ownership disputes",
+          "rescue operations"
+        ]
+      },
+      "sub_topics": []
+    },
+    "feed_analysis": {
+      "card_headline": "Bhiwandi Building Collapse Kills Nine; Dangerous Structures Back in Spotlight",
+      "card_summary": "A four-storey building declared unsafe collapsed in Bhiwandi, killing nine and injuring four. Rescue operations continue amid recurring fears over the town's dangerously dilapidated stock.",
+      "coverage_pulse": "Coverage mixes live rescue updates with a familiar systemic critique of ignored official warnings and unchecked illegal construction.",
+      "complete_picture": {
+        "shared_ground": "The building was already marked dangerous, residents heard cracking and were evacuating when the wing gave way; multi-agency rescue efforts recovered nine bodies. The mayor acknowledged at least 130-140 critical buildings remain occupied.",
+        "where_it_splits": "One narrative stresses the staggering civic data showing Bhiwandi has 10 times Mumbai's C1 dangerous buildings and decades of unplanned growth. Another focuses on personal survivor testimony and the immediate rescue drama, while a third emphasizes official appeals and rain-related death tolls.",
+        "why_it_matters": "Each monsoon, Bhiwandi suffers avoidable deaths because buildings are declared unsafe but residents remain due to lack of alternatives and redevelopment stalls. The collapse is not an isolated accident but a predictable outcome of governance failures."
+      },
+      "narrative_signals": [
+        "Recurring monsoon collapse pattern with historical references to 2020 and 2023 incidents.",
+        "Official statistics used to highlight Bhiwandi's disproportionately high count of dangerous buildings.",
+        "Survivor accounts emphasize warning signs ignored and botched repair work.",
+        "Mayor's evacuation plea and emergency shelter offer framed as limited remedies.",
+        "Rescue operation details show NDRF and local agencies in prolonged search."
+      ],
+      "blindspot_signals": [
+        "No real scrutiny of who ordered the repair work or why building was not sealed more forcefully.",
+        "The fate of displaced families beyond temporary shelters is largely absent.",
+        "Limited exploration of the pagdi tenancy and ownership disputes that block redevelopment.",
+        "No concrete accountability timeline for the 1,790 identified dangerous buildings."
+      ],
+      "reader_takeaway": "This was an avoidable tragedy; the town's ageing illegal stock and failed enforcement continue to put lives at risk.",
+      "visual_atoms": [
+        "collapsed wing",
+        "NDRF rescue",
+        "survivor stories",
+        "dangerous buildings list",
+        "monsoon toll"
+      ]
+    },
+    "saved_at": "2026-08-01 06:37:44.287000"
+  },
+  {
+    "cls_id": 1785520996757,
+    "art_ids": [
+      "6a6c56186bb7438f500b1706",
+      "6a6c52196bb7438f500b16a4",
+      "6a6c53a46bb7438f500b16e0"
+    ],
+    "headline": "Bhiwandi Collapse Kills Nine; Reports Reveal Rescue and Systemic Failures",
+    "intro": "Bhiwandi collapse kills nine; reports reveal rescue details, dangerous building lists, and systemic redevelopment failures.",
+    "qna": [
+      {
+        "que": "What happened in the Bhiwandi building collapse and what is the latest on casualties and rescue?",
+        "ans": [
+          "A portion of the four-storey Kohinoor Building in Balaji Nagar collapsed at around 11:30 pm. The building had been declared dangerous. Nine people were killed and several injured; rescue operations by NDRF and local teams were underway to find two to three trapped people.",
+          "The report adds historical context, noting previous deadly collapses in Bhiwandi, including 38 killed in 2020 and 8 in 2023, but does not include survivor accounts or the number of rooms.",
+          "The brief report says some were feared trapped and notes the building had 48 rooms, but gives no casualty names or broader historical parallels.",
+          "Carries detailed survivor quotes and identifies five deceased, and says 150 people were evacuated, with 10-12 remaining inside."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "Why did the collapse happen, and what warnings existed?",
+        "ans": [
+          "Residents heard loud cracking sounds around 9 pm and many evacuated. The building was already on the civic list of dangerous structures, and repair work was being carried out at the time.",
+          "Emphasizes decades of poor maintenance, illegal construction, and slow redevelopment as root causes, but does not mention any specific repair complaint from residents.",
+          "Simply states repair work was underway and the building had been declared dangerous, without exploring causes.",
+          "Quotes a trapped survivor claiming repairs were not done properly despite repeated warnings, adding a direct negligence angle not covered by others."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "How widespread is Bhiwandi's unsafe building problem?",
+        "ans": [
+          "All reports agree Bhiwandi has many dangerous buildings and residents often continue living in them. The town has recurring monsoon collapses.",
+          "Provides data: 1,790 dangerous buildings, 227 in C1 category needing immediate evacuation, more than 10 times Mumbai's C1 count, despite Bhiwandi's much smaller area.",
+          "Does not mention unsafe building numbers, limiting the issue to this single incident.",
+          "Cites Mayor Narayan Chowdhari saying 130-140 most dangerous buildings need immediate evacuation, and offers shelters, but does not give total numbers."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "What are the challenges in preventing such collapses and evacuating residents?",
+        "ans": [
+          "Authorities issue warnings and rescue operations are launched, but people stay because they lack alternative housing. Redevelopment has been slow.",
+          "Explains obstacles: pagdi tenancy, ownership disputes, litigation, and the Bombay High Court's criticism of civic bodies for 'lawlessness' and failure to enforce demolition rules.",
+          "Mentions only the rescue operation and no prevention challenges.",
+          "Reports that civic authorities pulled 150 people to safety and set up emergency camps, but also says some residents refused to leave; includes rain-related deaths in Thane district."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "ndtv",
+          "business_standard"
+        ]
+      },
+      {
+        "que": "How do the three reports differ in coverage, framing, and narrative?",
+        "ans": [
+          "They cover the same event but with different emphases: Indian Express focuses on systemic causes and data; NDTV gives a concise breaking-news brief; Business Standard centers on personal stories and official appeals.",
+          "Uses an investigative, historical approach, criticizing authorities and linking the collapse to a wider urban planning crisis; lacks vivid survivor quotes, possibly prioritizing systemic analysis over human drama.",
+          "Provides straightforward news alerts with no analysis; omits the history, critical data, and survivor testimony, making it the thinnest in context.",
+          "Humanizes the disaster with survivor and eyewitness accounts, names the dead, and adds local official information; however, it doesn't discuss the redevelopment disputes or court rulings found in the Indian Express."
+        ],
+        "srcs": [
+          "common_answer",
+          "indian_express",
+          "ndtv",
+          "business_standard"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "Indian Express",
+        "facts": [
+          "At least eight people were killed after a four-storey building collapsed late Thursday night in Bhiwandi.",
+          "The building was among 1,790 dangerous structures identified by the Bhiwandi Nizampur City Municipal Corporation, including 227 C1-category buildings requiring immediate evacuation; Mumbai has only 174 C1 buildings.",
+          "Bhiwandi, with a population of about 7.5 lakh in 27 sq km, has more than 10 times as many dangerous buildings as Mumbai, which has a population of 1.25 crore across 603 sq km.",
+          "The collapse is attributed to decades of unplanned growth as a powerloom and warehousing hub, poor maintenance, slow redevelopment due to ownership disputes and the pagdi tenancy system, and illegal construction.",
+          "Past major collapses include the 2020 Jilani Building collapse that killed at least 38 and the 2023 Wardhaman Compound collapse that killed eight.",
+          "The Bombay High Court criticized the civic body for 'lawlessness' and being in a 'deep slumber' regarding illegal structures.",
+          "Mayor Narayan Chaudhary advised people living in dangerous buildings to vacate immediately."
+        ],
+        "opinions": [
+          "Building collapses have become a recurring feature every monsoon due to ageing building stock, illegal construction, and delayed redevelopment.",
+          "The scale of Bhiwandi's problem far exceeds that of Mumbai despite the vast difference in size.",
+          "Residents continue to occupy unsafe buildings because they have no alternative housing, and the civic body's failure to act amounts to lawlessness."
+        ],
+        "sent_scr": -0.5,
+        "obj_scr": 0.7,
+        "link": ""
+      },
+      {
+        "name": "NDTV",
+        "facts": [
+          "Nine people were killed in the collapse; some are feared trapped under the rubble.",
+          "The Kohinoor Building in Balaji Nagar collapsed around 11:30 pm on Thursday while repair work was underway.",
+          "The building had 48 rooms, 12 on each floor, and had been declared dangerous by the civic body.",
+          "Residents heard loud cracking sounds around 9 pm and helped evacuate many families, but the B wing caved in while some occupants were still leaving.",
+          "A multi-agency rescue operation involving NDRF, Thane Disaster Response Force, and local fire brigade is underway.",
+          "A dog squad, four fire engines, two ambulances, and heavy earthmoving machinery were deployed at the site."
+        ],
+        "opinions": [
+          "The event is described as a tragedy, implying the collapse was an avoidable disaster."
+        ],
+        "sent_scr": -0.8,
+        "obj_scr": 0.9,
+        "link": ""
+      },
+      {
+        "name": "Business Standard",
+        "facts": [
+          "The death toll rose to nine, with four injured and two to three victims still believed trapped under the debris.",
+          "The building had been declared dangerous, and repair work was underway at the time of the collapse.",
+          "The deceased were identified as Shamim Shaikh (32), Ranjeet Singh (45), Miraj Rasul Shaikh (34), Santosh Kumar Pandey (42), and Shamim Ansari (30).",
+          "Mayor Narayan Chowdhari said there are 130-140 most dangerous buildings in Bhiwandi that need immediate evacuation; around 150 people were pulled to safety, but 10-12 remained inside when the B wing collapsed.",
+          "At least 27 people have died and 20 were injured in rain-related incidents in Thane district this monsoon, including this tragedy.",
+          "Maharashtra Disaster Management Minister Girish Mahajan confirmed nine deaths and said a search and rescue operation was underway."
+        ],
+        "opinions": [
+          "A survivor claimed the repairs were not being carried out properly despite repeated warnings from residents, leading to the disaster.",
+          "A resident whose family was saved said their split-second decision to step into a neighbour's house saved their lives, but they lost everything.",
+          "Mayor Chowdhari urged residents to vacate dangerous structures immediately to prevent further loss of life."
+        ],
+        "sent_scr": -0.7,
+        "obj_scr": 0.8,
+        "link": ""
+      }
+    ],
+    "genres": [
+      "crime",
+      "social issues",
+      "infrastructure",
+      "legal issues",
+      "politics"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {},
+      "keywords": {
+        "2gram": [
+          "building collapse",
+          "illegal construction",
+          "dangerous buildings",
+          "monsoon",
+          "bhiwandi"
+        ],
+        "3gram": [
+          "fourstorey building",
+          "bhiwandi nizampur city",
+          "c1 category",
+          "bombay high court",
+          "structural safety"
+        ]
+      },
+      "sub_topics": []
+    },
+    "feed_analysis": {
+      "card_headline": "Bhiwandi Collapse: Declared Dangerous Building Kills Nine During Repairs",
+      "card_summary": "A four-storey building in Bhiwandi that had been officially declared dangerous collapsed during repair work, killing at least nine. Residents had warned of improper repairs. The disaster exposes a systemic failure around aging, illegal structures and slow redevelopment.",
+      "coverage_pulse": "Coverage is split between urgent rescue reporting and deeper analysis of Bhiwandi's chronic building-safety crisis.",
+      "complete_picture": {
+        "shared_ground": "A four-storey residential building in Bhiwandi's Balaji Nagar, declared dangerous by the civic body, collapsed late Thursday night while repairs were underway. Nine people died, several were injured, and a multi-agency rescue operation continues. Residents heard cracking sounds and helped evacuate many before the B wing caved in.",
+        "where_it_splits": "Some reports focus on the immediate human toll, survivor accounts and the ongoing rescue. Others frame the tragedy as part of Bhiwandi's recurring monsoon collapse pattern, linking it to thousands of dangerously dilapidated buildings, illegal construction, delayed redevelopment, and civic negligence criticized by courts.",
+        "why_it_matters": "The collapse highlights a systemic public-safety failure: buildings declared too dangerous to occupy remain inhabited because residents have no alternative. It also raises urgent accountability questions about repair work on unsafe structures, municipal enforcement, and the gap between official warnings and protective action."
+      },
+      "narrative_signals": [
+        "Victim and survivor accounts of being trapped, hearing family, and losing everything.",
+        "Official appeals from mayor and minister while rescue teams search for trapped people.",
+        "Legal and administrative pattern: courts have criticized civic inaction for years.",
+        "Monsoon context: building collapses recur every rainy season in Bhiwandi.",
+        "The building had been declared dangerous and was undergoing repairs."
+      ],
+      "blindspot_signals": [
+        "Little reporting on the contractor or property owner responsible for the dangerous structure and the repair work.",
+        "No clear data on how many identified dangerous buildings have been evacuated or retrofitted since the 2020 Jilani collapse.",
+        "Long-term housing and rehabilitation options for displaced residents are mentioned only in passing.",
+        "The relationship between the dangerous-building list and actual occupancy or enforcement remains unaddressed."
+      ],
+      "reader_takeaway": "A preventable tragedy that exposes the lethal gap between declaring a building unsafe and protecting the people who live in it.",
+      "visual_atoms": [
+        "rescue operation",
+        "NDRF search",
+        "collapsed wing",
+        "survivor accounts",
+        "monsoon risk"
+      ]
+    },
+    "saved_at": "2026-07-31 18:10:34.628000"
+  },
+  {
+    "cls_id": 1785520996754,
+    "art_ids": [
+      "6a6ae0c066345566c74e253a",
+      "6a6ae17c66345566c74e2573",
+      "6a6adefe66345566c74e2595"
+    ],
+    "headline": "Student Protests and Political Gambits: NEET Fallout Coverage",
+    "intro": "Three outlets cover NEET protests, Pradhan's resignation, and opposition's new strategy, revealing contrasting narratives on police action and parliamentary politics.",
+    "qna": [
+      {
+        "que": "What happened at Jantar Mantar on July 20 and how do the sources respond to the police action?",
+        "ans": [
+          "On July 20, police used pellet guns against student protesters at Jantar Mantar during a march related to the NEET paper leak. The protesters, led by Cockroach Janta Party (CJP), demanded action against officials who ordered the firing. No official has been held accountable so far.",
+          "Strongly condemns the action, quoting CJP founder Abhijeet Dipke calling it 'blood spilled' and demanding action against Home Minister Amit Shah if necessary. It frames students as 'future of our country', not terrorists.",
+          "Does not independently validate or condemn the police action. Instead, it reports that opposition parties are using the issue to target Amit Shah politically, focusing on parliamentary strategy rather than the incident itself.",
+          "Reports that opposition MPs protested over 'police excesses' and raised slogans, but presents it as part of routine Parliament news without editorial commentary or verification."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "indian_express",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "How did Dharmendra Pradhan's resignation come about and what significance do the sources attribute to it?",
+        "ans": [
+          "Union Education Minister Dharmendra Pradhan resigned after student protests over the NEET paper leak. The CJP claims victory. Opposition sees it as a success but wants further accountability.",
+          "Celebrates the resignation as 'the country's students won', criticizes BJP for felicitating Pradhan in Parliament, and quotes Dipke saying the anger is not against one minister but the entire government.",
+          "Mentions the resignation only as background, then shifts focus to opposition's future strategy, implying the issue is already over politically.",
+          "States the resignation was forced by large-scale student protests led by CJP, but offers no judgment or analysis of its impact."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "indian_express",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "What does the new anti-paper leak bill entail and how is it being received?",
+        "ans": [
+          "The Public Examination Prevention of Unfair Means Amendment Bill, 2026 was passed in Lok Sabha, introducing stricter punishments. The government says it is open to learning from experiences.",
+          "Quotes Dipke criticizing the bill, stating laws need good implementers, and highlights that PM Modi's promise of fast-track courts faced a setback when the first hearing was postponed because the CBI counsel did not appear.",
+          "Does not provide details on the bill's provisions, only notes that Rajya Sabha is expected to take it up on Thursday.",
+          "Reports the bill was introduced and passed, mentions stricter punishment and 52 FIRs since the original 2024 law, but includes no criticism or dissent."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "indian_express",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "What is the significance of the Ram Temple donation theft issue and why is the opposition shifting focus?",
+        "ans": [
+          "Opposition parties plan to raise the alleged theft of donations at Ayodhya's Ram Temple in Parliament, while also continuing to target Amit Shah over police action. This follows a strategy meeting of opposition leaders and comes ahead of UP elections.",
+          "Does not mention the Ram Temple issue at all, focusing exclusively on student protests and police action.",
+          "Provides the most detail: Samajwadi Party pushed for the shift, Congress and TMC agreed, and there is a political calculation to benefit in UP elections. It frames this as a deliberate tactical change.",
+          "Reports the protest outside Parliament where MPs symbolically put money in a donation box to highlight the issue, but does not analyze the strategic motivation behind the shift."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "indian_express",
+          "ndtv"
+        ]
+      },
+      {
+        "que": "How does the coverage of these events differ across the three sources in terms of bias and narrative?",
+        "ans": [
+          "The sources have different focuses: India.com is sympathetic to the student protesters, The Indian Express analyzes opposition politics, and NDTV provides neutral parliamentary updates. This shapes which facts are presented and omitted.",
+          "Adopts an activist tone, using emotional language like 'blood spilled', and gives voice to only the CJP leader. It omits the Ram Temple issue, emphasizing the government's alleged oppression.",
+          "Treats events as political chess, focusing on strategies of Congress, SP, and TMC. It does not cover the students' perspective or the pellet gun incident directly, potentially downplaying the humanitarian angle.",
+          "Presents facts dispassionately, covering bills, protests, and slogans. However, it does not investigate deeper issues like police accountability or the bill's shortcomings, maintaining an institutional stance."
+        ],
+        "srcs": [
+          "common_answer",
+          "india.com",
+          "indian_express",
+          "ndtv"
+        ]
+      }
+    ],
+    "srcs_data": [
+      {
+        "name": "India.com",
+        "facts": [
+          "Abhijeet Dipke demanded strict legal action against officials who authorised pellet gun firing during the July 20 protests at Jantar Mantar.",
+          "Dipke claimed police in multiple states are visiting student activists' homes and threatening them with arrest.",
+          "Dipke criticized the Public Examination Prevention of Unfair Means Amendment Bill, 2026.",
+          "Dipke said the CJP's agitation succeeded in forcing Dharmendra Pradhan's resignation, with volunteers protesting for 36 days."
+        ],
+        "opinions": [
+          "The blood of students was spilled on the streets; the government should behave well.",
+          "Students are not terrorists; they are the future of the country, and action should be taken against those who gave pellet gun orders, even Amit Shah.",
+          "There is nothing wrong with celebrating the victory; the BJP's felicitation of Pradhan after student suicides was shameful.",
+          "The government is forcing students to launch a fresh, bigger agitation; if need be, they will change the government."
+        ],
+        "sent_scr": -0.7,
+        "obj_scr": 0.3,
+        "link": ""
+      },
+      {
+        "name": "The Indian Express",
+        "facts": [
+          "The Lok Sabha passed the Public Examination Prevention of Unfair Means Amendment Bill, 2026 on Wednesday.",
+          "Opposition parties, including Congress, SP, and TMC, agreed to shift focus to the alleged theft of donations at Ayodhya's Ram Temple.",
+          "SP is set to raise the Ram Temple donation theft in Lok Sabha.",
+          "Congress wants to continue attacking Home Minister Amit Shah over police action against protesting students on July 20.",
+          "Rajya Sabha is expected to take up the anti-paper leak bill on Thursday."
+        ],
+        "opinions": [
+          "Rahul Gandhi seeking answers from the Home Minister for the brutal attack on students will help keep the heat on the government.",
+          "Raising the issue of police action against protesters could help the opposition gain ground.",
+          "The opposition believes it has succeeded in cornering the government over police action on students."
+        ],
+        "sent_scr": -0.1,
+        "obj_scr": 0.7,
+        "link": ""
+      },
+      {
+        "name": "NDTV",
+        "facts": [
+          "Lok Sabha approved the Public Examination Prevention of Unfair Means Amendment Bill, 2026, with stricter punishment.",
+          "Union minister Jitendra Singh said 52 FIRs have been lodged since the anti-paper leak law came into force in 2024.",
+          "Rajya Sabha passed the Prevention of Insults to National Honour Amendment Bill, 2026, making obstruction or insult to Vande Mataram a criminal offence.",
+          "Opposition MPs, including Priyanka Gandhi Vadra, protested in the Parliament House complex against alleged police excesses and theft of donations at the Ram temple, raising slogans and holding a donation box.",
+          "Lok Sabha proceedings adjourned till 2 pm amid sloganeering."
+        ],
+        "opinions": [
+          "The government asserted that the anti-paper leak bill was introduced as it is open to learning from experiences.",
+          "The opposition's protest symbolised the alleged theft of donations at the Ram temple and demanded accountability from the Home Minister."
+        ],
+        "sent_scr": 0.0,
+        "obj_scr": 0.8,
+        "link": ""
+      }
+    ],
+    "genres": [
+      "politics",
+      "education",
+      "social issues",
+      "legal issues"
+    ],
+    "img": "default.jpg",
+    "metadata": {
+      "named_entities": {
+        "people": [
+          "abhijeet dipke",
+          "dharmendra pradhan",
+          "amit shah",
+          "narendra modi",
+          "b. r. ambedkar"
+        ],
+        "organizations": [
+          "cockroach janta party (cjp)",
+          "bjp",
+          "cbi",
+          "dr. babasaheb ambedkar marathwada university"
+        ],
+        "locations": [
+          "new delhi",
+          "jantar mantar",
+          "chhatrapati sambhajinagar",
+          "assam",
+          "west bengal",
+          "waluj midc"
+        ]
+      },
+      "keywords": {
+        "2-gram": [
+          "pellet guns",
+          "paper leak",
+          "student activists",
+          "police harassment",
+          "legal action"
+        ],
+        "3-gram": [
+          "neet paper leak",
+          "pellet gun firing",
+          "action against officials",
+          "union education minister",
+          "change the government"
+        ]
+      },
+      "sub_topics": [
+        "neet paper leak",
+        "student protests",
+        "police action against protesters",
+        "government accountability",
+        "political resignation"
+      ]
+    },
+    "feed_analysis": {
+      "card_headline": "Student Protests Force Resignation, But Fight Moves to Parliament",
+      "card_summary": "NEET leak protests ousted an education minister, yet activists warn of more action. Parliament passes a stricter anti-leak bill as opposition shifts focus to Ram temple donations and police conduct.",
+      "coverage_pulse": "Coverage is split between street-level defiance, parliamentary strategy, and legislative updates.",
+      "complete_picture": {
+        "shared_ground": "The NEET paper leak triggered mass student protests that forced Education Minister Dharmendra Pradhan to resign. Police action on July 20, including pellet gun use, became a national flashpoint. Parliament has since taken up an anti-paper leak amendment bill.",
+        "where_it_splits": "One thread follows the protest leader's warning of renewed agitation; another tracks opposition plans to tie the issue to Ram temple donation allegations; a third focuses on the passage of the anti-paper leak bill and parliamentary disruptions.",
+        "why_it_matters": "The episode has turned exam integrity into a major political liability, testing the government's accountability and shaping pre-election alignments in Uttar Pradesh and beyond."
+      },
+      "narrative_signals": [
+        "Protest leader claims victory but warns the government must fall in line or face a bigger movement.",
+        "Opposition seeks to keep heat on Home Minister while pivoting to alleged Ram temple donation theft.",
+        "Lok Sabha passes stricter anti-paper leak law amid walkouts and slogan-shouting.",
+        "Students' anger is framed as ongoing, not settled by the minister's resignation."
+      ],
+      "blindspot_signals": [
+        "Little scrutiny of whether the new anti-leak bill actually addresses root causes of paper leaks.",
+        "The Ram temple donation allegations are reported largely as a political tactic, with less independent verification.",
+        "Coverage leans on the protest leader and opposition voices; ordinary students' experiences are less visible.",
+        "The status of the promised fast-track courts for leak cases is mentioned only in passing."
+      ],
+      "reader_takeaway": "The protest wave has won a scalp, but the next phase will be fought in Parliament and at the ballot box.",
+      "visual_atoms": [
+        "pellet guns",
+        "Jantar Mantar",
+        "Parliament complex",
+        "donation box",
+        "anti-paper leak bill"
+      ]
+    },
+    "saved_at": "2026-07-31 18:10:34.628000"
+  }
+]
